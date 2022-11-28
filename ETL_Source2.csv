@@ -1,0 +1,31 @@
+﻿OrderID,Customer First Name,Customer Last Name,Customer City,Customer State/Province,Customer Status,Order Date,Product ID,Unit Price,Quantity,Discount Rate
+A10258,Milagros,Fehrenbach,Kansas City,Kansas,2,Jan-18,2,$15.20,50,20%
+A10258,Milagros,Fehrenbach,Kansas City,Kansas,2,Jan-18,32,$25.60,6,20%
+A10258,Milagros,Fehrenbach,Kansas City,Kansas,2,Jan-18,5,$17.00,65,20%
+A10259,Julio,Willard,Greensboro,North Carolina,3,Jan-18,21,$8.00,10,0%
+A10259,Julio,Willard,Greensboro,North Carolina,3,Jan-18,37,$20.80,1,0%
+A10260,Roslyn,Plott,Colombus,Ohio,3,Jan-18,70,$12.00,21,25%
+A10260,Roslyn,Plott,Colombus,Ohio,3,Jan-18,57,$15.60,50,0%
+A10260,Roslyn,Plott,Colombus,Ohio,3,Jan-18,62,$39.40,15,25%
+A10260,Roslyn,Plott,Colombus,Ohio,3,Jan-18,41,$7.70,16,25%
+A10261,Eve,Haak,Detroit,Michigan,1,Jan-18,35,$14.40,20,0%
+A10261,Eve,Haak,Detroit,Michigan,1,Jan-18,21,$8.00,20,0%
+A10262,Max,Kindle,Colombus,Ohio,2,Jan-18,5,$17.00,12,20%
+A10262,Max,Kindle,Colombus,Ohio,2,Jan-18,7,$24.00,15,0%
+A10262,Max,Kindle,Colombus,Ohio,2,Jan-18,56,$30.40,2,0%
+A10263,Roxie,Prewitt,Provo,Utah,2,Jan-18,16,$13.90,60,25%
+A10263,Roxie,Prewitt,Provo,Utah,2,Jan-18,30,$20.70,60,25%
+A10263,Roxie,Prewitt,Provo,Utah,2,Jan-18,74,$8.00,36,25%
+A10263,Roxie,Prewitt,Provo,Utah,2,Jan-18,24,$3.60,28,0%
+A10264,Erik,Vire,Philadelphia,Pennsylvania,2,Jan-18,2,$15.20,35,0%
+A10264,Erik,Vire,Philadelphia,Pennsylvania,2,Jan-18,41,$7.70,25,15%
+A10265,Lonnie,Ludy,Kansas City,Missouri,2,Jan-18,17,$31.20,30,0%
+A10265,Lonnie,Ludy,Kansas City,Missouri,2,Jan-18,70,$12.00,20,0%
+A10266,Jamie,Woodbridge,Seattle,Washington,3,Jan-18,12,$30.40,12,5%
+A102675,Eleanor,Aburto,Toronto,Ontario,1,Jan-18,76,$14.40,15,15%
+A102675,Eleanor,Aburto,Toronto,Ontario,1,Jan-18,40,$14.70,50,0%
+A102675,Eleanor,Aburto,Toronto,Ontario,1,Jan-18,59,$44.00,70,15%
+A1026,Odessa,Smith,Providence,Rhode Island,2,Jan-18,29,$99.00,10,0%
+A1026,Odessa,Smith,Providence,Rhode Island,2,Jan-18,72,$27.80,4,0%
+A10273,Jamie,Sabat,Vancover,British Columbia,3,Jan-18,72,$27.80,20,5%
+A10273,Jamie,Sabat,Vancover,British Columbia,3,Jan-18,33,$2.00,60,5%
