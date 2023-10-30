@@ -1,500 +1,500 @@
-Date of Injury,Employee,WC Claim #,Injury/Illness Type,Injury/Illness Nature,Affected Area,Side,Modified Days,Lost Time Days,Recordability,Location,Building
-2022-04-07,EI1011,V88820070,STF - same level,Contusion,Leg,L,,,First Aid,Dumpster enclosure,Sullivan
-2020-04-10,EI1013,V92696025,Struck against,Sprain/strain,Hand,R,,,First Aid,Hallway,Stanford
-2022-01-06,EI1015,V37846864,Struck against,Fracture,Torso,,19,,Modified Duty,Grounds,Finneran Pavilion
-2019-11-07,EI1017,V76310773,MVA,Laceration,Head,,,,First Aid,"Ryan's Way",
-2019-08-16,EI1017,V23588924,Extreme temperature,Burn,Hand,R,,,First Aid,Kitchen,Scarpa
-2020-10-05,EI1017,V71430920,Puncture,Puncture,Foot/feet,,,,Recordable,Kitchen,Finneran Pavilion
-2020-05-24,EI1019,V72358972,Struck against,Contusion,Finger,L,,,First Aid,Soccer Field - West,
-2019-04-21,EI1021,V43320602,Bodily reaction,Illness/infection,,,,,First Aid,Roof,Jake Nevin
-2021-05-06,EI1021,V38820443,Puncture,Puncture,Multiple,,,,First Aid,Custodial closet,Canon
-2020-10-14,EI1021,V89885456,Struck against,Contusion,Finger,L,,,First Aid,Office,Austin
-2021-11-14,EI1023,V30344583,Caught in,Puncture,Hand,L,,,First Aid,Office,SAC
-2019-09-21,EI1023,V35677522,Struck against,Contusion,Arm,L,,,First Aid,Training Room,Jake Nevin
-2022-09-24,EI1023,V91517729,Struck against,Laceration,Arm,R,4,,Modified Duty,Dumpster enclosure,Sullivan
-2022-08-23,EI1023,V62469854,Rubbed/abraded,Abrasion,Wrist,R,,,First Aid,Soccer Field - West,
-2019-04-19,EI1025,V91686633,Struck by,Contusion,Hand,R,,,First Aid,Grounds,Inn
-2021-05-02,EI1027,V74931049,Contact w/ chemical,Rash,Face,L,,,First Aid,Lab,CEER
-2018-07-14,EI1027,V99989565,Contact w/ electrical,Burn,Arm,L,,,First Aid,Mechanical Room,White
-2021-03-03,EI1027,V84945453,Extreme temperature,Rash,Wrist,L,,,Recordable,Office,TSB
-2021-05-03,EI1029,V73184033,Overexertion,Sprain/strain,Torso,R,,69,Lost Time,Grounds,Dougherty
-2018-10-17,EI1031,V65363570,STF - elevation,Fracture,Multiple,,,,Recordable,Residence Room,Canon
-2021-04-05,EI1033,V51509602,Contact w/ chemical,Rash,Face,R,,1,Lost Time,Garage,Stadium
-2022-06-05,EI1033,V44685291,Contact w/ electrical,Burn,Hand,L,,,First Aid,Hallway,Garey
-2018-01-20,EI1033,V12935214,Contact w/ chemical,Rash,Face,R,,,First Aid,Grounds,Sheehan
-2021-11-13,EI1035,V76175258,Extreme temperature,Illness/infection,,,,,Recordable,Lab,CEER
-2018-06-24,EI1037,V28187618,Contact w/ electrical,Burn,Finger,L,,,First Aid,Stockroom,St. Mary
-2018-02-27,EI1037,V75051503,Other,,,,,,First Aid,Kitchen,Driscoll
-2020-11-28,EI1037,V23835655,MVA,Laceration,Leg,R,,,Recordable,Commons Driveway,
-2021-11-11,EI1039,V22648069,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Office,Corr
-2019-05-14,EI1041,V59505808,Bodily reaction,Inhalation,,,,,Recordable,Lab,Mendel
-2020-02-01,EI1043,V42045447,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Grounds,McGuinn
-2018-10-14,EI1041,V25752895,Overexertion,Sprain/strain,Torso,R,,,Recordable,Hallway,Driscoll
-2019-10-15,EI1045,V64302175,Contact w/ chemical,Rash,Hand,R,,,First Aid,Mechanical Room,Davis Center
-2019-06-02,EI1047,V14846311,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Kitchen,Connelly
-2022-03-27,EI1045,V91441536,MVA,Laceration,Hand,R,,8,Lost Time,Dougherty Drive,
-2019-04-07,EI1049,V91425008,Overexertion,Sprain/strain,Arm,L,,,First Aid,Mechanical Room,Farley
-2019-01-30,EI1049,V10467414,Extreme temperature,Burn,Hand,R,,,First Aid,Grounds,McGuinn
-2022-04-10,EI1049,V76438046,STF - same level,Abrasion,Hand,R,,,Recordable,Residence Room,Friar
-2020-12-25,EI1051,V57403461,MVA,Laceration,Head,,,,First Aid,"Ryan's Way",
-2022-08-09,EI1051,V64474206,Puncture,Puncture,Foot/feet,,,,First Aid,Training Room,Jake Nevin
-2022-11-26,EI1051,V54438684,STF - same level,Contusion,Leg,R,,,First Aid,Grounds,Stadium
-2022-08-28,EI1053,V76649227,STF - same level,Abrasion,Torso,R,,,First Aid,Lab,Mendel
-2021-01-26,EI1053,V25728637,Contact w/ chemical,Rash,Eye,R,,3,Lost Time,Office,TSB
-2021-11-15,EI1055,V11538726,Contact w/ chemical,Rash,Eye,R,,,First Aid,Grounds,St. Monica
-2021-01-26,EI1055,V98704967,Struck by,Laceration,Foot/feet,R,,,Recordable,Grounds,St. Monica
-2020-05-10,EI1057,V19537922,Extreme temperature,Illness/infection,,,,,First Aid,Kitchen,Connelly
-2020-07-07,EI1057,V76915238,Contact w/ electrical,Burn,Finger,R,,,Recordable,Training Room,Jake Nevin
-2022-06-25,EI1057,V44630782,Rubbed/abraded,Abrasion,Finger,L,,,Recordable,Hallway,Sheehan
-2022-10-26,EI1059,V40177495,Other,Puncture,Hand,,,,Recordable,Grounds,CEER
-2019-11-17,EI1059,V39470506,Caught in,Laceration,Finger,R,,,Recordable,Stockroom,Dougherty
-2018-01-10,EI1061,V18747104,MVA,Contusion,Face,L,,6,Lost Time,"Ryan's Way",
-2021-04-13,EI1063,V48351048,Other,,,,,," Not Work Related",Kitchen,Donahue
-2021-01-25,EI1063,V25162601,MVA,Laceration,Finger,L,,,Recordable,Dougherty Drive,
-2022-03-15,EI1063,V88455924,Caught in,Laceration,Finger,L,25,,Modified Duty,Mechanical Room,Davis Center
-2019-03-03,EI1063,V24586955,Caught in,Laceration,Finger,L,,,First Aid,Office,TSB
-2022-12-05,EI1063,V93725826,Contact w/ chemical,Rash,Finger,R,,,First Aid,Loading Dock,Donahue
-2019-03-30,EI1065,V65438139,Extreme temperature,Illness/infection,,,,,First Aid,Carpenter Shop,Maintenance Building
-2020-09-14,EI1065,V18404209,Other,Laceration,Hand,,,,Recordable,Hallway,Moriarty
-2021-01-30,EI1065,V72325805,Rubbed/abraded,Abrasion,Leg,L,,,First Aid,Office,Villanova Center
-2020-02-23,EI1065,V22719939,Contact w/ chemical,Inhalation,Internal organ,,,,First Aid,Grounds,Stanford
-2019-09-22,EI1065,V34558157,Rubbed/abraded,Abrasion,Face,,,,First Aid,Lab,ChemE
-2020-10-10,EI1065,V81334139,Rubbed/abraded,Abrasion,Wrist,L,,,Recordable,Mechanical Room,HSB
-2020-02-24,EI1067,V15296278,Overexertion,Sprain/strain,Back,,,,First Aid,Steam Plant,Steam Plant
-2018-12-26,EI1067,V99852343,Caught in,Contusion,Hand,R,,,First Aid,Grounds,Finneran Pavilion
-2018-10-16,EI1067,V32480652,Contact w/ electrical,Burn,Hand,L,,,Recordable,Carpenter Shop,CEER
-2020-04-27,EI1069,V83026006,MVA,Contusion,Face,L,,12,Lost Time,"Ryan's Way",
-2020-12-14,EI1069,V22455660,Caught in,Contusion,Foot/feet,R,,,First Aid,Office,Kennedy
-2021-05-03,EI1069,V55359721,Struck against,Amputation,Multiple,,,,Recordable,Hallway,Scarpa
-2019-11-15,EI1071,V93073490,Other,Laceration,Hand,,,,First Aid,Stockroom,Dougherty
-2022-04-23,EI1071,V99414365,Extreme temperature,Burn,Wrist,R,4,,Modified Duty,Kitchen,Finneran Pavilion
-2022-08-21,EI1073,V99444033,Struck by,Laceration,Foot/feet,R,,,Recordable,Soccer Field - West,
-2020-04-28,EI1075,V45752532,STF - same level,Laceration,Head,,,,Recordable,Lab,ChemE
-2020-04-15,EI1075,V21954388,Rubbed/abraded,Abrasion,Finger,L,,,Recordable,Hallway,Sheehan
-2018-10-30,EI1075,V86597763,Rubbed/abraded,Abrasion,Wrist,L,,,First Aid,Residence Room,Trinity
-2022-06-05,EI1077,V16207906,Other,,,,,,First Aid,Hallway,Stanford
-2020-10-24,EI1077,V34038991,Contact w/ chemical,Rash,Eye,L,,,First Aid,Hallway,St. Rita
-2021-03-22,EI1077,V45940248,STF - same level,Contusion,Face,R,,,First Aid,Stockroom,St. Mary
-2021-08-22,EI1077,V31833214,Rubbed/abraded,Abrasion,Neck,R,,5,Lost Time,Hallway,Trinity
-2018-08-21,EI1077,V75300557,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Hallway,Bartley
-2020-10-03,EI1079,V75468461,Contact w/ chemical,Rash,Hand,R,,,Recordable,Office,SAC
-2018-10-10,EI1079,V28149346,Puncture,Puncture,Foot/feet,,,,First Aid,Kitchen,Bartley
-2019-08-05,EI1081,V22300376,Extreme temperature,Rash,Wrist,L,,,First Aid,Kitchen,Friar
-2018-05-04,EI1081,V92855974,Extreme temperature,Other,,,,,First Aid,Dumpster enclosure,Sullivan
-2020-12-31,EI1083,V36668630,Bodily reaction,Inhalation,,,,,Recordable,Lab,Mendel
-2020-12-08,EI1085,V24658336,Puncture,Puncture,Leg,R,7,,Modified Duty,Loading Dock,Connelly
-2020-08-19,EI1087,V98996628,STF - same level,Abrasion,Face,,,,First Aid,Training Room,Jake Nevin
-2020-04-27,EI1087,V30462655,Struck against,Contusion,Torso,,,,First Aid,Hallway,Aldwyn
-2019-12-28,EI1089,V44923094,STF - same level,Laceration,Hand,R,,,Recordable,Hallway,Scarpa
-2020-12-24,EI1087,V53337712,MVA,Sprain/strain,Neck,L,10,,Modified Duty,Lancaster Ave,
-2022-11-28,EI1091,V23482135,Rubbed/abraded,Abrasion,Finger,R,,,Recordable,Office,SAC
-2021-02-24,EI1091,V50328414,STF - same level,Contusion,Hand,R,,,First Aid,Grounds,Finneran Pavilion
-2020-12-22,EI1093,V71459250,Struck by,Laceration,Hand,L,,,First Aid,Kitchen,St. Mary
-2020-04-02,EI1093,V48315795,Struck against,Contusion,Arm,L,,,First Aid,Kitchen,Finneran Pavilion
-2019-05-03,EI1095,V93161384,Contact w/ electrical,Burn,Finger,R,2,,Modified Duty,Grounds,Kennedy
-2022-04-07,EI1097,V95742172,Overexertion,Sprain/strain,Back,,,,Recordable,Office,SAC
-2022-05-24,EI1099,V56170783,STF - same level,Contusion,Torso,L,,,First Aid,Dumpster enclosure,St. Rita
-2021-09-01,EI1101,V23346217,Bodily reaction,Illness/infection,,,9,,Modified Duty,Locker Room,Finneran Pavilion
-2022-07-10,EI1097,V51848411,Overexertion,Sprain/strain,Arm,L,,,Recordable,Grounds,Stone
-2020-06-11,EI1103,V56858596,Overexertion,Sprain/strain,Torso,L,8,,Modified Duty,Office,Driscoll
-2022-08-20,EI1101,V19452323,MVA,Fracture,Finger,R,,,First Aid,Route 476,
-2018-12-04,EI1105,V97042013,Other,Contusion,Face,,,,First Aid,Steam Plant,Steam Plant
-2019-07-20,EI1105,V25215259,Bodily reaction,Illness/infection,,,175,3,Lost Time,Hallway,Tolentine
-2022-10-13,EI1105,V66436563,Caught in,Contusion,Foot/feet,R,,,First Aid,Mechanical Room,Sullivan
-2020-05-05,EI1105,V43985797,Extreme temperature,Other,,,2,,Modified Duty,Soccer Field - West,
-2019-09-26,EI1107,V91242200,Extreme temperature,Illness/infection,,,,,First Aid,Grounds,Finneran Pavilion
-2021-10-12,EI1107,V87715237,Rubbed/abraded,Abrasion,Hand,R,4,,Modified Duty,Grounds,Corr
-2019-10-05,EI1107,V99191979,STF - same level,Laceration,Finger,R,,,Recordable,Lab,Mendel
-2022-05-06,EI1107,V73209217,Bodily reaction,Inhalation,,,,,First Aid,Office,Vasey
-2020-05-13,EI1109,V98939626,Contact w/ electrical,Burn,Arm,R,,,First Aid,Court,Finneran Pavilion
-2020-11-23,EI1111,V29411569,Contact w/ electrical,Burn,Hand,L,,,First Aid,Hallway,Garey
-2020-09-29,EI1111,V59767331,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Roof,Talley Center
-2021-02-10,EI1111,V83087119,STF - same level,Fracture,Arm,L,,4,Lost Time,Grounds,Kennedy
-2022-11-28,EI1111,V49688905,Contact w/ chemical,Inhalation,Internal organ,,,,First Aid,Hallway,Scarpa
-2018-06-30,EI1113,V41339317,Contact w/ chemical,Rash,Hand,R,,,Recordable,Kitchen,Dougherty
-2021-12-01,EI1115,V81891812,STF - same level,Fracture,Finger,L,9,,Modified Duty,Grounds,"O'Dwyer"
-2020-11-11,EI1117,V36635712,Contact w/ electrical,Burn,Hand,L,,,First Aid,Kitchen,St. Mary
-2020-04-11,EI1117,V33197975,MVA,Fracture,Leg,L,85,,Modified Duty,SAC Drive,
-2022-12-24,EI1119,V70277842,Puncture,Puncture,Leg,R,5,,Modified Duty,Court,Finneran Pavilion
-2021-11-13,EI1121,V19562275,Caught in,Laceration,Hand,L,2,,Modified Duty,Mechanical Room,Davis Center
-2018-05-23,EI1123,V47428760,Puncture,Puncture,Finger,,,,First Aid,Grounds,Finneran Pavilion
-2019-04-17,EI1125,V30720334,Rubbed/abraded,Abrasion,Leg,L,,2,Lost Time,Grounds,McGuinn
-2019-12-03,EI1125,V93473875,Contact w/ electrical,Burn,Hand,R,,,Recordable,Hallway,Sheehan
-2022-10-10,EI1127,V28190953,Caught in,Laceration,Hand,R,8,,Modified Duty,Garage,Stadium
-2021-04-22,EI1127,V48417931,Rubbed/abraded,Abrasion,Finger,L,29,,Modified Duty,Garage,Stadium
-2018-12-13,EI1129,V80208807,Struck against,Contusion,Torso,,,,First Aid,Kitchen,Connelly
-2021-04-22,EI1131,V99429725,MVA,Contusion,Torso,R,,,First Aid,"Ryan's Way",
-2018-09-10,EI1133,V80207559,Bodily reaction,Illness/infection,,,,,First Aid,Grounds,Klekotka
-2019-10-05,EI1135,V99209319,Extreme temperature,Other,,,,,First Aid,Dumpster enclosure,Canon
-2021-03-08,EI1137,V60578670,Caught in,Laceration,Finger,L,,,Recordable,Stockroom,Dougherty
-2020-02-22,EI1137,V81086095,Extreme temperature,Rash,Neck,,,,First Aid,Office,St. Mary
-2022-09-28,EI1133,V47271701,STF - same level,Contusion,Leg,R,,,First Aid,Grounds,Stadium
-2020-12-25,EI1139,V88624546,Puncture,Foreign body,Finger,,,,First Aid,Hallway,Stanford
-2022-02-28,EI1139,V73738638,MVA,Laceration,Finger,R,,,First Aid,Commons Driveway,
-2022-08-15,EI1141,V83490486,Caught in,Sprain/strain,Torso,,,102,Lost Time,Mechanical Room,Driscoll
-2018-08-12,EI1139,V16620644,MVA,Fracture,Multiple,,,,Recordable,Route 476,
-2021-07-20,EI1143,V44888512,STF - elevation,Fracture,Arm,L,,6,Lost Time,Office,SAC
-2018-01-26,EI1143,V96458979,Overexertion,Sprain/strain,Back,,,26,Lost Time,Office,SAC
-2021-02-25,EI1145,V47720426,Bodily reaction,Inhalation,,,,,First Aid,Locker Room,Finneran Pavilion
-2021-03-23,EI1147,V99154750,MVA,Sprain/strain,Hand,L,,,First Aid,Lancaster Ave,
-2019-08-13,EI1147,V95898935,Struck by,Fracture,Foot/feet,L,,,Recordable,Office,Corr
-2021-04-06,EI1149,V19290738,Struck against,Rash,Hand,R,,1,Lost Time,Garage,Stadium
-2018-07-16,EI1151,V11585564,Contact w/ chemical,Rash,Hand,R,,,First Aid,Kitchen,Dougherty
-2019-02-03,EI1153,V99020395,Extreme temperature,Rash,Wrist,L,,,First Aid,Office,TSB
-2020-03-22,EI1155,V51582856,STF - elevation,Contusion,Finger,L,,,First Aid,Kitchen,Finneran Pavilion
-2019-05-08,EI1157,V45214595,Puncture,Foreign body,Eye,R,,,First Aid,,SAC
-2019-05-29,EI1159,V85280410,Contact w/ chemical,Rash,Eye,L,,,Recordable,Mechanical Room,Bartley
-2018-04-25,EI1161,V85769455,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Grounds,Good Counsel
-2020-05-12,EI1163,V36051555,MVA,Sprain/strain,Leg,R,,,Recordable,Route 422,
-2018-01-28,EI1165,V60393816,STF - elevation,Fracture,Multiple,,,,Recordable,Mechanical Room,HSB
-2018-01-31,EI1167,V68058326,MVA,Laceration,Finger,L,,,Recordable,Commons Driveway,
-2021-05-02,EI1169,V80289079,Other,Illness/infection,Internal organ,,,7,Lost Time,Classroom,Scarpa
-2018-05-01,EI1167,V88988754,STF - elevation,Fracture,Leg,L,15,,Modified Duty,Training Room,Jake Nevin
-2021-07-21,EI1169,V27022335,Struck against,Contusion,Face,R,,,First Aid,Mechanical Room,Driscoll
-2021-11-22,EI1171,V89633250,Overexertion,Sprain/strain,Back,,,,First Aid,Grounds,Sullivan
-2022-05-25,EI1173,V74885082,Struck against,Contusion,Torso,,,,First Aid,Kitchen,Donahue
-2018-11-07,EI1171,V66894729,MVA,Laceration,Groin,,,,First Aid,Dougherty Drive,
-2022-12-22,EI1175,V89381444,Contact w/ chemical,Rash,Eye,L,,,First Aid,Hallway,St. Rita
-2018-06-20,EI1177,V91891093,Bodily reaction,Illness/infection,,,5,,Modified Duty,Grounds,Stanford
-2021-10-08,EI1179,V58633271,MVA,Laceration,Head,,,,Recordable,Dougherty Drive,
-2020-11-11,EI1177,V23324333,Puncture,Puncture,Leg,,,,First Aid,Grounds,Stadium
-2018-05-17,EI1181,V30007078,STF - same level,Laceration,Face,,,,Recordable,Loading Dock,St. Mary
-2021-01-25,EI1183,V37231381,Extreme temperature,Illness/infection,,,,,First Aid,Hallway,Good Counsel
-2021-06-17,EI1183,V34245261,MVA,Laceration,Hand,L,,,Recordable,Dougherty Drive,
-2021-11-17,EI1185,V75847394,Struck against,Fracture,Hand,R,,6,Lost Time,Garage,Stadium
-2022-08-09,EI1187,V53682676,Rubbed/abraded,Abrasion,Hand,R,,27,Lost Time,Lab,Mendel
-2021-05-03,EI1185,V64315358,Struck by,Laceration,Finger,R,,,Recordable,Grounds,Sullivan
-2018-04-26,EI1185,V24115694,Puncture,Puncture,Foot/feet,,,,First Aid,Mechanical Room,Welsh
-2022-11-05,EI1189,V48250961,Struck against,Laceration,Arm,L,3,,Modified Duty,Mechanical Room,Finneran Pavilion
-2021-09-13,EI1187,V91198569,Puncture,Puncture,Leg,R,29,,Modified Duty,Office,St. Mary
-2020-04-06,EI1191,V43904546,Contact w/ electrical,Burn,Finger,L,,,First Aid,Grounds,McGuinn
-2020-11-21,EI1193,V93716068,Overexertion,Sprain/strain,Torso,L,,57,Lost Time,Training Room,Jake Nevin
-2021-09-27,EI1191,V71050990,Contact w/ chemical,Rash,Face,L,29,,Modified Duty,Hallway,Trinity
-2019-11-15,EI1195,V33631822,Contact w/ electrical,Burn,Hand,R,,7,Lost Time,Office,SAC
-2021-03-01,EI1197,V88951704,Contact w/ chemical,Rash,Face,L,,,First Aid,Roof,Talley Center
-2021-04-04,EI1199,V26439403,Other,Illness/infection,Internal organ,,,9,Lost Time,Stockroom,Dougherty
-2018-05-08,EI1197,V29573768,Struck against,Contusion,Finger,R,,,First Aid,Kitchen,Friar
-2020-11-03,EI1197,V50189592,Extreme temperature,Other,,,,,First Aid,Mechanical Room,Sullivan
-2021-11-14,EI1201,V77324688,Rubbed/abraded,Abrasion,Finger,R,,,First Aid,Kitchen,Dougherty
-2021-06-13,EI1203,V88956909,Other,Amputation,Finger,,,5,Lost Time,Grounds,Inn
-2019-03-07,EI1205,V15433232,Rubbed/abraded,Abrasion,Hand,R,,,First Aid,Grounds,Sullivan
-2022-02-24,EI1201,V74519126,Struck against,Contusion,Torso,,,,First Aid,Dumpster enclosure,St. Mary
-2022-07-05,EI1203,V31837688,Struck against,Crushed,Torso,,,,Recordable,Hallway,Finneran Pavilion
-2022-02-05,EI1205,V75349576,Bodily reaction,Inhalation,,,,,Recordable,Mechanical Room,Austin
-2021-09-08,EI1205,V80065127,Struck by,Contusion,Back,,,,First Aid,Grounds,St. Monica
-2019-01-23,EI1207,V47990526,STF - same level,Contusion,Torso,R,,,First Aid,Hallway,Griffin
-2020-12-13,EI1209,V68442876,Contact w/ electrical,Burn,Finger,L,,7,Lost Time,Office,Vasey
-2019-05-29,EI1209,V70637153,Other,,,,,,First Aid,Office,Villanova Center
-2021-02-10,EI1211,V42097498,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Court,Finneran Pavilion
-2022-09-26,EI1211,V32709368,MVA,Sprain/strain,Back,R,59,8,Lost Time,Lancaster Ave,
-2018-09-07,EI1213,V76745189,Other,Contusion,Foot/feet,,,,First Aid,Garage,Stadium
-2018-09-23,EI1215,V73397257,STF - elevation,Contusion,Arm,L,,,First Aid,Hallway,Good Counsel
-2020-11-16,EI1217,V31294986,Other,,,,,,First Aid,Grounds,Donahue
-2018-07-27,EI1213,V87109037,Overexertion,Sprain/strain,Arm,R,,,First Aid,Grounds,CEER
-2018-04-09,EI1213,V61387287,Other,,,,,,First Aid,Grounds,Kennedy
-2022-12-19,EI1219,V61632599,MVA,Fracture,Foot/feet,L,,,Recordable,SAC Drive,
-2018-10-12,EI1215,V23825633,Contact w/ electrical,Burn,Arm,R,,,Recordable,Mechanical Room,Sheehan
-2019-08-02,EI1215,V21022606,STF - elevation,Fracture,Arm,R,,,Recordable,Custodial closet,Bartley
-2018-07-10,EI1221,V24015624,Bodily reaction,Other,,,,,First Aid,Soccer Field - West,
-2020-07-07,EI1223,V47113921,Contact w/ chemical,Rash,Hand,R,,,First Aid,Office,SAC
-2022-11-10,EI1225,V30124138,Contact w/ electrical,Burn,Hand,R,,,Recordable,Garage,Stadium
-2018-05-25,EI1227,V36664707,STF - elevation,Fracture,Arm,R,3,21,Lost Time,Hallway,Canon
-2020-06-02,EI1229,V76296286,Rubbed/abraded,Abrasion,Leg,L,,,First Aid,Stockroom,Donahue
-2018-09-01,EI1227,V50161418,Bodily reaction,Illness/infection,,,,,Recordable,Hallway,Sheehan
-2019-08-27,EI1231,V45571748,Caught in,Laceration,Head,,,2,Lost Time,Grounds,Stadium
-2018-06-05,EI1229,V45413264,Rubbed/abraded,Abrasion,Wrist,R,,,First Aid,Loading Dock,Donahue
-2018-05-20,EI1233,V86912999,STF - elevation,Contusion,Head,,,,First Aid,Grounds,Sheehan
-2020-03-29,EI1233,V37566260,Puncture,Puncture,Finger,,2,,Modified Duty,Grounds,Sullivan
-2022-10-04,EI1233,V92256186,STF - elevation,Abrasion,Head,,,,First Aid,Mechanical Room,Sullivan
-2021-12-22,EI1235,V71328376,STF - elevation,Abrasion,Leg,R,,,First Aid,Carpenter Shop,CEER
-2020-06-12,EI1237,V90250164,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Classroom,Bartley
-2022-12-03,EI1237,V12859087,Extreme temperature,Burn,Wrist,R,,,Recordable,Kitchen,Scarpa
-2019-04-26,EI1239,V76817867,STF - elevation,Contusion,Hand,L,,,First Aid,Loading Dock,Donahue
-2020-06-14,EI1241,V32884314,MVA,Puncture,Foot/feet,L,,,First Aid,Route 476,
-2020-02-01,EI1239,V82709942,Other,Illness/infection,Internal organ,,,,Recordable,Softball Field,
-2019-11-12,EI1243,V46743729,STF - same level,Contusion,Hand,L,,,First Aid,Office,SAC
-2019-01-04,EI1245,V32806906,STF - same level,Abrasion,Face,,,,First Aid,Grounds,McGuinn
-2018-11-30,EI1247,V48763744,Struck against,Laceration,Arm,R,,,First Aid,Mechanical Room,Rudolph
-2020-03-06,EI1249,V63539994,Puncture,Puncture,Hand,,,,First Aid,Lab,Mendel
-2018-03-24,EI1251,V23596800,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Hallway,Fedigan
-2018-06-07,EI1249,V68684449,Puncture,Puncture,Finger,L,1,,Modified Duty,Lab,Tolentine
-2022-03-19,EI1253,V28451879,Contact w/ chemical,Rash,Face,L,,,Recordable,Carpenter Shop,Maintenance Building
-2022-03-18,EI1253,V58518768,Contact w/ electrical,Burn,Arm,L,,,Recordable,Mechanical Room,HSB
-2021-06-04,EI1255,V85796058,STF - same level,Abrasion,Hand,R,,,Recordable,Lab,Tolentine
-2022-12-13,EI1257,V20101216,Struck against,Abrasion,Hand,R,,,First Aid,Garage,Stadium
-2019-10-10,EI1259,V30254659,Puncture,Puncture,Hand,,2,,Modified Duty,Kitchen,St. Mary
-2022-04-29,EI1261,V90072069,Rubbed/abraded,Abrasion,Finger,R,,4,Lost Time,Garage,Stadium
-2019-04-24,EI1261,V99684370,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Grounds,Sheehan
-2018-01-12,EI1261,V50610632,Struck against,Crushed,Multiple,,,,Recordable,Custodial closet,Bartley
-2018-04-26,EI1263,V41444000,Other,Contusion,Foot/feet,,,,First Aid,Office,SAC
-2020-06-29,EI1265,V44693907,Overexertion,Sprain/strain,Back,,,,First Aid,Kitchen,Dougherty
-2022-01-13,EI1267,V58610305,MVA,Sprain/strain,Torso,R,,,Recordable,Lancaster Ave,
-2022-10-26,EI1269,V96559570,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Hallway,Stanford
-2021-06-05,EI1271,V98931654,Overexertion,Sprain/strain,Arm,R,,,First Aid,Office,Bartley
-2022-01-05,EI1273,V70747031,Rubbed/abraded,Abrasion,Face,,,,Recordable,Loading Dock,Connelly
-2020-10-06,EI1275,V61578069,Extreme temperature,Illness/infection,,,,,First Aid,Hallway,Good Counsel
-2021-01-09,EI1277,V14656079,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Office,Kennedy
-2018-09-23,EI1279,V60263891,Contact w/ electrical,Burn,Hand,R,,,First Aid,Grounds,Stanford
-2018-09-07,EI1277,V11212910,Puncture,Puncture,Finger,,,2,Lost Time,Hallway,Tolentine
-2022-05-15,EI1275,V83577129,Other,Laceration,Hand,,,,First Aid,Dumpster enclosure,St. Rita
-2022-11-22,EI1281,V69769157,Contact w/ electrical,Burn,Hand,L,,,Recordable,Mechanical Room,Mendel
-2019-12-11,EI1277,V71467588,Contact w/ electrical,Burn,Finger,R,,,First Aid,Office,Villanova Center
-2021-06-20,EI1283,V49283173,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Softball Field,
-2020-07-31,EI1285,V94384035,MVA,Contusion,Torso,R,,,First Aid,"Ryan's Way",
-2018-05-28,EI1287,V98801720,Caught in,Contusion,Foot/feet,R,,,Recordable,Roof,Finneran Pavilion
-2021-03-16,EI1285,V62421144,Extreme temperature,Illness/infection,,,10,,Modified Duty,Stockroom,St. Mary
-2020-09-15,EI1289,V42411234,Contact w/ electrical,Burn,Hand,R,,,Recordable,Mechanical Room,Talley Center
-2021-02-06,EI1291,V58715918,Rubbed/abraded,Abrasion,Face,,,,First Aid,Custodial closet,Canon
-2020-05-09,EI1291,V22451317,Contact w/ electrical,Burn,Hand,L,,19,Lost Time,Hallway,Geraghty
-2022-07-29,EI1293,V14407291,Bodily reaction,Other,,,4,,Modified Duty,Lab,ChemE
-2020-07-16,EI1295,V55623519,Contact w/ electrical,Burn,Hand,R,,,First Aid,Hallway,Good Counsel
-2022-09-18,EI1295,V75965035,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Hallway,Good Counsel
-2022-04-25,EI1297,V35898841,Struck against,Contusion,Torso,,,,First Aid,Kitchen,Connelly
-2019-07-14,EI1299,V80899473,Overexertion,Sprain/strain,Back,,5,,Modified Duty,Carpenter Shop,Maintenance Building
-2018-10-30,EI1295,V82879216,Contact w/ electrical,Burn,Arm,R,,2,Lost Time,Custodial closet,Trinity
-2018-08-22,EI1301,V52130850,STF - elevation,Fracture,Finger,R,,,Recordable,Lab,ChemE
-2020-12-12,EI1303,V82357178,Other,Illness/infection,Internal organ,,,,Recordable,Soccer Field - West,
-2021-05-09,EI1295,V46369712,Other,Illness/infection,Internal organ,,,,Recordable,Custodial closet,Bartley
-2019-05-21,EI1305,V16863490,Other,,,,,,First Aid,Garage,Stadium
-2019-08-12,EI1307,V79470485,Puncture,Puncture,Leg,,,,Recordable,Custodial closet,Sheehan
-2019-02-13,EI1309,V99468550,Puncture,Foreign body,Finger,,,,Recordable,Grounds,Inn
-2022-07-12,EI1311,V25484004,Bodily reaction,Illness/infection,,,8,,Modified Duty,Grounds,Stanford
-2018-05-30,EI1313,V80978784,Puncture,Puncture,Leg,,,,First Aid,Office,Austin
-2019-04-18,EI1315,V61581707,Struck against,Laceration,Multiple,,,,Recordable,Custodial closet,Bartley
-2019-08-28,EI1317,V20302290,Overexertion,Sprain/strain,Arm,R,,,First Aid,Dumpster enclosure,Stanford
-2022-08-26,EI1319,V41052141,Other,,,,,,First Aid,Carpenter Shop,Maintenance Building
-2018-06-20,EI1317,V24062652,Contact w/ electrical,Burn,Hand,L,,,First Aid,Hallway,Garey
-2022-08-06,EI1321,V92438761,Contact w/ chemical,Rash,Eye,R,,,First Aid,Stockroom,St. Mary
-2022-10-09,EI1323,V48310782,MVA,Laceration,Groin,,,,First Aid,Dougherty Drive,
-2019-06-24,EI1325,V92193605,Contact w/ electrical,Burn,Finger,L,,,First Aid,Office,Vasey
-2018-09-11,EI1327,V90825987,Overexertion,Sprain/strain,Torso,R,,,Recordable,Grounds,St. Monica
-2019-12-31,EI1325,V35742875,Bodily reaction,Inhalation,,,3,,Modified Duty,Lab,Mendel
-2021-09-27,EI1329,V70259540,Puncture,Puncture,Finger,,,,First Aid,Hallway,Stanford
-2018-08-30,EI1331,V17354530,MVA,Contusion,Torso,R,,,First Aid,"Ryan's Way",
-2019-12-27,EI1333,V85407984,Caught in,Contusion,Hand,L,,,First Aid,Hallway,Good Counsel
-2022-11-24,EI1335,V23079338,MVA,Contusion,Head,,,,First Aid,"Ryan's Way",
-2020-03-20,EI1331,V45489927,STF - same level,Contusion,Groin,,,,First Aid,Kitchen,Maintenance Building
-2019-08-02,EI1335,V95750837,Struck by,Laceration,Leg,L,,,First Aid,Hallway,TSB
-2022-09-18,EI1337,V86296923,Other,Illness/infection,Internal organ,,,,Recordable,Stockroom,Donahue
-2018-05-30,EI1335,V61041651,Contact w/ chemical,Rash,Finger,L,,,Recordable,Grounds,Stadium
-2022-06-04,EI1339,V74666242,Bodily reaction,Other,,,,,Recordable,Loading Dock,Donahue
-2022-11-23,EI1341,V47691809,Struck against,Abrasion,Hand,R,,,First Aid,Garage,Stadium
-2019-01-28,EI1343,V36655231,Struck by,Laceration,Head,,,,First Aid,,Mendel
-2018-05-18,EI1343,V29188672,Puncture,Puncture,Hand,,,,First Aid,Lab,Mendel
-2019-08-13,EI1345,V33397245,Contact w/ chemical,Rash,Finger,L,,,First Aid,Hallway,Dougherty
-2019-03-15,EI1345,V61825013,MVA,Puncture,Hand,R,,,Recordable,Route 422,
-2018-09-13,EI1347,V66404271,STF - same level,Abrasion,Hand,R,,,First Aid,Kitchen,Dougherty
-2021-01-30,EI1349,V82547643,Overexertion,Sprain/strain,Arm,R,,,First Aid,Hallway,St. Rita
-2018-12-29,EI1351,V43626440,Extreme temperature,Illness/infection,,,2,,Modified Duty,Kitchen,Donahue
-2021-03-28,EI1353,V20108146,Struck by,Contusion,Groin,,,,First Aid,Office,St. Mary
-2021-08-09,EI1347,V14968411,Struck against,Crushed,Multiple,,,,Recordable,Loading Dock,St. Mary
-2021-02-14,EI1355,V55611974,Rubbed/abraded,Abrasion,Hand,L,,," Not Work Related",Carpenter Shop,Maintenance Building
-2018-04-17,EI1357,V11598276,STF - elevation,Contusion,Finger,L,,,First Aid,Training Room,Jake Nevin
-2022-10-16,EI1359,V49081720,MVA,Laceration,Leg,R,,,Recordable,Commons Driveway,
-2018-01-01,EI1359,V86170253,Other,,,,,,First Aid,Grounds,Dougherty
-2018-12-22,EI1361,V34197670,Rubbed/abraded,Abrasion,Leg,L,,,First Aid,Office,St. Mary
-2018-09-26,EI1363,V25062213,Puncture,Puncture,Multiple,,,,First Aid,Custodial closet,Sullivan
-2018-07-06,EI1365,V12383987,STF - same level,Fracture,Hand,L,21,,Modified Duty,Hallway,Kennedy
-2019-05-26,EI1367,V94392745,Overexertion,Sprain/strain,Arm,R,,8,Lost Time,Mechanical Room,Sullivan
-2019-02-28,EI1365,V49138150,Puncture,Puncture,Hand,,,,First Aid,Carpenter Shop,Mendel
-2019-03-24,EI1367,V19958008,STF - same level,Fracture,Arm,L,,10,Lost Time,Kitchen,Finneran Pavilion
-2021-09-22,EI1367,V85485386,Puncture,Puncture,Hand,,4,,Modified Duty,Hallway,Trinity
-2020-12-14,EI1369,V25426890,STF - same level,Contusion,Hand,L,,6,Lost Time,Garage,Stadium
-2019-12-06,EI1371,V59791776,Overexertion,Sprain/strain,Arm,L,56,105,Lost Time,Hallway,Burns
-2019-05-15,EI1373,V21737309,STF - elevation,Fracture,Hand,R,,,Recordable,Hallway,Scarpa
-2020-04-15,EI1375,V75541396,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Dumpster enclosure,Canon
-2022-10-14,EI1377,V96592039,Caught in,Laceration,Head,,,,First Aid,Office,Corr
-2019-06-03,EI1379,V41465086,Rubbed/abraded,Abrasion,Finger,R,,,Recordable,Softball Field,
-2019-01-02,EI1381,V76398532,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Carpenter Shop,Maintenance Building
-2021-02-11,EI1383,V97600545,Struck by,Fracture,Hand,L,7,,Modified Duty,,CEER
-2020-05-31,EI1383,V66847673,Bodily reaction,Inhalation,,,,,Recordable,Lab,Mendel
-2019-10-06,EI1385,V70067841,STF - elevation,Contusion,Hand,L,,,First Aid,Loading Dock,Connelly
-2019-09-14,EI1387,V69089308,Bodily reaction,Illness/infection,,,19,,Modified Duty,Softball Field,
-2019-11-18,EI1389,V87787950,Contact w/ chemical,Rash,Face,R,6,,Modified Duty,Lab,CEER
-2022-06-22,EI1387,V87967357,Struck by,Fracture,Arm,L,,15,Lost Time,Training Room,Jake Nevin
-2019-05-05,EI1391,V85730996,Overexertion,Sprain/strain,Torso,L,,,First Aid,Training Room,Jake Nevin
-2022-08-31,EI1393,V42691845,Contact w/ chemical,Inhalation,Internal organ,,,,First Aid,Mechanical Room,Sullivan
-2018-05-06,EI1395,V21414894,Puncture,Puncture,Finger,,,,First Aid,Carpenter Shop,Maintenance Building
-2021-03-25,EI1395,V63582446,Rubbed/abraded,Abrasion,Neck,R,,,First Aid,Grounds,Sullivan
-2022-01-02,EI1397,V16951640,MVA,Laceration,Hand,L,,,Recordable,Dougherty Drive,
-2018-04-07,EI1397,V13289066,Contact w/ electrical,Burn,Arm,R,,,First Aid,Mechanical Room,Mendel
-2019-02-21,EI1397,V33109294,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Lab,White
-2021-08-26,EI1399,V80453444,STF - elevation,Contusion,Hand,L,,,First Aid,Kitchen,Dougherty
-2022-01-10,EI1401,V21428176,Other,Puncture,Finger,,,5,Lost Time,Grounds,Inn
-2018-08-04,EI1399,V52303870,STF - elevation,Contusion,Arm,R,,,Recordable,Kitchen,Connelly
-2020-01-04,EI1401,V74339406,Puncture,Puncture,Foot/feet,,,,First Aid,Mechanical Room,Mendel
-2022-09-05,EI1403,V47131505,Overexertion,Repetitive motion,Hand,R,,,Recordable,Kitchen,Dougherty
-2018-05-24,EI1405,V17412271,STF - same level,Laceration,Head,,,,Recordable,Grounds,St. Monica
-2020-11-05,EI1407,V87289093,Contact w/ electrical,Burn,Hand,R,,,First Aid,Kitchen,Connelly
-2022-07-09,EI1409,V85568520,Caught in,Contusion,Foot/feet,R,,6,Lost Time,Office,Kennedy
-2019-04-02,EI1407,V12012666,Struck by,Contusion,Leg,L,,,First Aid,Kitchen,Donahue
-2020-03-07,EI1411,V11974655,Struck against,Crushed,Multiple,,,,Recordable,Soccer Field - West,
-2018-01-03,EI1413,V33807633,Overexertion,Sprain/strain,Back,,,,First Aid,Mechanical Room,Davis Center
-2021-11-18,EI1415,V98174031,Rubbed/abraded,Abrasion,Neck,R,,,First Aid,Lab,Mendel
-2020-05-07,EI1417,V52258537,STF - same level,Fracture,Arm,L,,9,Lost Time,Stockroom,Donahue
-2018-08-07,EI1419,V12971856,Struck by,Amputation,Finger,R,,,Recordable,Locker Room,Davis Center
-2022-10-24,EI1421,V57131874,Caught in,Laceration,Finger,L,,,First Aid,Hallway,Davis Center
-2019-02-01,EI1421,V63912068,Struck by,Contusion,Back,,,,First Aid,Kitchen,Friar
-2020-08-11,EI1419,V12306676,Caught in,Laceration,Torso,,,,Recordable,Training Room,Jake Nevin
-2019-02-12,EI1423,V42818016,Extreme temperature,Other,,,,8,Lost Time,Grounds,Stanford
-2022-07-14,EI1425,V66922176,STF - same level,Laceration,Multiple,,,,Recordable,Carpenter Shop,Maintenance Building
-2022-02-14,EI1427,V92452457,MVA,Laceration,Hand,R,,,First Aid,Dougherty Drive,
-2020-07-10,EI1429,V72956722,Other,,,,,,First Aid,Training Room,Jake Nevin
-2018-03-30,EI1431,V34142191,MVA,Puncture,Internal organ,,,175,Lost Time,Route 422,
-2021-09-25,EI1433,V19498251,Struck against,Laceration,Multiple,,,,Recordable,Custodial closet,Bartley
-2019-07-31,EI1427,V14271892,Puncture,Puncture,Finger,,,,Recordable,Grounds,Riley
-2018-12-28,EI1435,V10285370,Contact w/ electrical,Burn,Hand,R,,,First Aid,Office,SAC
-2020-11-10,EI1435,V51258354,Contact w/ chemical,Rash,Hand,R,,,First Aid,Office,SAC
-2019-08-26,EI1437,V52515386,Bodily reaction,Inhalation,,,,,First Aid,Dumpster enclosure,St. Mary
-2022-06-21,EI1439,V33724477,Contact w/ electrical,Burn,Finger,R,,,First Aid,Kitchen,Finneran Pavilion
-2022-10-29,EI1441,V22570677,STF - elevation,Contusion,Hand,L,,,First Aid,Office,SAC
-2019-05-09,EI1443,V94723649,Bodily reaction,Illness/infection,,,,,Recordable,Grounds,Donahue
-2019-07-02,EI1445,V36113831,Overexertion,Sprain/strain,Arm,L,12,,Modified Duty,Hallway,Bartley
-2018-03-03,EI1447,V41803204,Other,Contusion,Foot/feet,,,,First Aid,Office,SAC
-2022-06-06,EI1449,V85530332,STF - elevation,Fracture,Arm,L,23,,Modified Duty,Lab,CEER
-2022-12-07,EI1451,V75835748,Caught in,Contusion,Foot/feet,R,,,Recordable,Athletics Complex,Talley Center
-2019-12-18,EI1447,V74970973,Contact w/ chemical,Rash,Face,L,,,Recordable,Hallway,Tolentine
-2018-05-25,EI1447,V50489814,Overexertion,Sprain/strain,Arm,R,,,First Aid,Carpenter Shop,CEER
-2021-01-29,EI1453,V26479697,Contact w/ electrical,Burn,Finger,R,4,,Modified Duty,Grounds,Kennedy
-2019-11-27,EI1451,V59320134,Overexertion,Repetitive motion,Wrist,L,,,First Aid,Kitchen,Finneran Pavilion
-2022-03-19,EI1455,V38874300,Struck by,Contusion,Leg,R,,,First Aid,Grounds,Delurey
-2018-11-25,EI1457,V51892499,STF - same level,Abrasion,Arm,L,,,First Aid,Training Room,Jake Nevin
-2020-07-21,EI1459,V74405452,Other,,,,,,First Aid,Grounds,Kennedy
-2021-06-10,EI1461,V12913885,STF - same level,Abrasion,Hand,R,,,Recordable,Custodial closet,HSB
-2018-08-01,EI1463,V80042113,Extreme temperature,Illness/infection,,,,,First Aid,Grounds,Sheehan
-2019-11-02,EI1465,V54357897,Contact w/ electrical,Burn,Finger,R,,,Recordable,Mechanical Room,Scarpa
-2021-08-09,EI1467,V42345552,MVA,Fracture,Multiple,,,,Recordable,SAC Drive,
-2020-03-24,EI1465,V31662803,Puncture,Puncture,Finger,,,,First Aid,Classroom,Tolentine
-2019-12-26,EI1469,V77823713,Struck against,Fracture,Hand,R,8,,Modified Duty,Grounds,Finneran Pavilion
-2022-10-02,EI1471,V52137436,STF - elevation,Contusion,Arm,L,,,First Aid,Steam Plant,Steam Plant
-2018-09-15,EI1473,V85396224,STF - elevation,Fracture,Leg,L,50,,Modified Duty,Stockroom,Dougherty
-2022-09-28,EI1473,V77177853,Overexertion,Sprain/strain,Torso,L,6,,Modified Duty,Stockroom,Donahue
-2018-03-24,EI1475,V37197118,MVA,Puncture,Hand,L,,,Recordable,Route 476,
-2019-09-03,EI1477,V46352816,Contact w/ electrical,Burn,Arm,L,,3,Lost Time,Softball Field,
-2021-07-25,EI1479,V23094260,Overexertion,Sprain/strain,Back,,,,First Aid,Grounds,Sheehan
-2020-03-19,EI1481,V21688164,Extreme temperature,Illness/infection,,,,,Recordable,Roof,Finneran Pavilion
-2020-09-12,EI1481,V84043907,Overexertion,Sprain/strain,Back,,,,First Aid,Locker Room,Davis Center
-2022-09-08,EI1483,V34064129,MVA,Fracture,Multiple,,,,First Aid,SAC Drive,
-2018-12-02,EI1485,V90617825,Struck by,Contusion,Hand,R,,,First Aid,Office,SAC
-2022-07-08,EI1485,V21970990,STF - elevation,Contusion,Head,,,,First Aid,Kitchen,Maintenance Building
-2022-12-26,EI1487,V30746949,Extreme temperature,Rash,Neck,,,3,Lost Time,Grounds,Kennedy
-2020-04-28,EI1489,V86213711,Overexertion,Sprain/strain,Torso,L,,,First Aid,Stockroom,Donahue
-2019-12-23,EI1487,V63672596,Struck against,Contusion,Finger,L,,,First Aid,Grounds,Dougherty
-2020-12-20,EI1491,V49406878,MVA,Contusion,Face,L,,,Recordable,"Ryan's Way",
-2019-08-13,EI1493,V31535651,Other,Laceration,Multiple,,,,First Aid,Stockroom,Dougherty
-2020-03-11,EI1495,V45755512,Caught in,Crushed,Hand,L,6,,Modified Duty,Hallway,Trinity
-2020-02-21,EI1497,V77081483,Overexertion,Repetitive motion,Wrist,R,,,Recordable,Mechanical Room,St. Mary
-2019-11-07,EI1499,V19439870,STF - elevation,Contusion,Hand,L,,,First Aid,Grounds,St. Monica
-2019-10-21,EI1501,V62472568,Other,Contusion,Face,,,,First Aid,Hallway,Good Counsel
-2020-03-31,EI1503,V20654447,Other,Puncture,Hand,,,,Recordable,Lab,Mendel
-2022-10-25,EI1505,V48370477,STF - elevation,Abrasion,Leg,R,,,First Aid,Training Room,Jake Nevin
-2020-11-08,EI1507,V11586001,STF - same level,Laceration,Face,,,,Recordable,Loading Dock,St. Mary
-2021-12-04,EI1509,V61035237,STF - elevation,Sprain/strain,Arm,R,,,Recordable,Kitchen,Connelly
-2019-05-18,EI1511,V40591016,Other,Illness/infection,Internal organ,,,,Recordable,Grounds,Stadium
-2018-09-19,EI1513,V57296760,Bodily reaction,Illness/infection,,,8,,Modified Duty,Kitchen,Dougherty
-2022-12-04,EI1515,V44213151,STF - elevation,Fracture,Arm,R,,,Recordable,Garage,Stadium
-2020-12-17,EI1513,V24854371,Overexertion,Sprain/strain,Back,,,,First Aid,Kitchen,Connelly
-2021-12-24,EI1517,V83116132,MVA,Laceration,Groin,,,,Recordable,Dougherty Drive,
-2018-06-01,EI1519,V55702146,STF - same level,Abrasion,Face,,,,First Aid,Lab,Mendel
-2021-01-01,EI1521,V85110141,STF - elevation,Abrasion,Leg,R,7,,Modified Duty,Hallway,Bartley
-2021-08-17,EI1523,V45110018,Extreme temperature,Illness/infection,,,,,Recordable,Kitchen,Bartley
-2018-11-20,EI1523,V57548604,Contact w/ chemical,Rash,Eye,R,,,First Aid,Kitchen,Scarpa
-2022-09-14,EI1523,V28158680,Contact w/ electrical,Burn,Arm,L,6,,Modified Duty,Mechanical Room,White
-2020-05-21,EI1525,V26967117,Struck by,Fracture,Arm,L,,,Recordable,Grounds,St. Mary
-2018-05-18,EI1527,V46651357,Overexertion,Sprain/strain,Back,,,3,Lost Time,Grounds,Finneran Pavilion
-2021-03-09,EI1529,V88624729,Caught in,Sprain/strain,Torso,,,,First Aid,Office,Villanova Center
-2019-03-12,EI1531,V73742742,Puncture,Puncture,Hand,,7,,Modified Duty,Hallway,Rudolph
-2020-04-29,EI1533,V66752183,STF - same level,Abrasion,Eye,L,,,First Aid,Office,Vasey
-2021-08-06,EI1535,V82720328,Bodily reaction,Inhalation,,,,,First Aid,Kitchen,Scarpa
-2019-11-08,EI1537,V67731436,Extreme temperature,Rash,Neck,,,,First Aid,Mechanical Room,CEER
-2020-09-01,EI1539,V91986499,Bodily reaction,Illness/infection,,,,,First Aid,Hallway,Kennedy
-2021-01-16,EI1541,V10565213,Other,Laceration,Multiple,,,,First Aid,Mechanical Room,Falvey
-2022-12-14,EI1539,V95018088,Overexertion,Repetitive motion,Hand,L,,,First Aid,Office,St. Mary
-2019-08-06,EI1543,V65685720,Extreme temperature,Other,,,,,First Aid,Grounds,Stadium
-2021-03-02,EI1545,V28436482,Contact w/ chemical,Rash,Hand,R,,,First Aid,Mechanical Room,Davis Center
-2018-05-22,EI1547,V29559890,Struck by,Contusion,Hand,R,,,First Aid,,SAC
-2020-10-11,EI1549,V28460775,Bodily reaction,Other,,,,,First Aid,Grounds,Stanford
-2019-03-07,EI1551,V45680116,Overexertion,Sprain/strain,Back,,,,Recordable,Office,SAC
-2019-05-24,EI1553,V70298568,Contact w/ chemical,Rash,Hand,R,,,First Aid,Grounds,Finneran Pavilion
-2022-06-28,EI1553,V65104091,Struck against,Contusion,Torso,,,,First Aid,Grounds,Donahue
-2020-09-07,EI1555,V87471815,Extreme temperature,Rash,Neck,,,,Recordable,Kitchen,Dougherty
-2022-02-26,EI1557,V96923383,Caught in,Sprain/strain,Head,,,,First Aid,Lab,Mendel
-2018-02-10,EI1559,V34642601,Contact w/ electrical,Burn,Hand,L,,,First Aid,Grounds,Stone
-2020-10-10,EI1561,V61217450,Other,Illness/infection,Internal organ,,,,Recordable,Loading Dock,Connelly
-2020-06-15,EI1563,V30044397,STF - elevation,Fracture,Arm,R,,,Recordable,Classroom,ChemE
-2020-10-11,EI1565,V55104899,Contact w/ chemical,Rash,Eye,R,,,Recordable,Dumpster enclosure,Sheehan
-2021-12-01,EI1567,V43702867,Overexertion,Sprain/strain,Back,,,,First Aid,Hallway,SAC
-2019-03-20,EI1569,V28015986,Overexertion,Sprain/strain,Arm,R,,,First Aid,Carpenter Shop,Maintenance Building
-2020-06-27,EI1571,V57907225,Overexertion,Repetitive motion,Wrist,R,,,First Aid,Dumpster enclosure,Sullivan
-2019-01-02,EI1571,V80116014,STF - elevation,Fracture,Hand,R,,,Recordable,Hallway,Scarpa
-2020-07-11,EI1573,V51937227,Caught in,Contusion,Foot/feet,L,,,Recordable,Kitchen,Scarpa
-2018-03-13,EI1575,V28842588,Struck by,Fracture,Foot/feet,L,,,Recordable,Grounds,St. Monica
-2020-02-11,EI1577,V90617836,STF - elevation,Contusion,Hand,R,,,First Aid,Steam Plant,Steam Plant
-2019-08-11,EI1579,V50087311,Overexertion,Sprain/strain,Arm,R,,,First Aid,Carpenter Shop,CEER
-2019-05-03,EI1577,V90672477,Caught in,Laceration,Torso,,,,First Aid,Kitchen,Friar
-2018-09-12,EI1579,V39111540,Struck against,Laceration,Arm,R,1,,Modified Duty,Classroom,Driscoll
-2020-11-08,EI1581,V49931968,Rubbed/abraded,Abrasion,Finger,R,,,Recordable,Garage,Stadium
-2018-03-07,EI1583,V86524510,Bodily reaction,Illness/infection,,,,,Recordable,Kitchen,Maintenance Building
-2020-05-27,EI1585,V42631663,Struck by,Contusion,Head,,,,First Aid,Dumpster enclosure,St. Mary
-2018-12-23,EI1587,V12432413,Rubbed/abraded,Abrasion,Neck,R,,8,Lost Time,Lab,Mendel
-2022-03-29,EI1589,V85529937,Caught in,Contusion,Foot/feet,l,,,First Aid,Training Room,Jake Nevin
-2021-01-26,EI1581,V99595856,Struck against,Contusion,Finger,R,,,First Aid,Grounds,Dougherty
-2021-08-23,EI1591,V21301509,Bodily reaction,Other,,,,,Recordable,Soccer Field - West,
-2020-07-18,EI1585,V27329672,Rubbed/abraded,Abrasion,Leg,,,,Recordable,Dumpster enclosure,Sheehan
-2021-07-02,EI1593,V92397079,Contact w/ electrical,Burn,Hand,R,,19,Lost Time,Hallway,Tolentine
-2022-11-24,EI1595,V54229048,Caught in,Sprain/strain,Torso,,,,First Aid,Dumpster enclosure,St. Mary
-2022-07-24,EI1593,V87315860,Overexertion,Sprain/strain,Arm,L,49,,Modified Duty,Office,Vasey
-2018-04-30,EI1597,V91497873,Rubbed/abraded,Abrasion,Face,,,,First Aid,Grounds,St. Monica
-2019-03-08,EI1599,V54623126,Struck by,Fracture,Hand,L,2,,Modified Duty,Hallway,Tolentine
-2019-12-29,EI1601,V33044047,MVA,Fracture,Leg,L,,,First Aid,Commons Driveway,
-2019-08-07,EI1603,V52154544,STF - same level,Abrasion,Hand,R,,,First Aid,Steam Plant,Steam Plant
-2020-06-19,EI1605,V20205825,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Kitchen,Donahue
-2019-05-10,EI1603,V97898375,Contact w/ electrical,Burn,Hand,L,,,Recordable,Grounds,Donahue
-2022-09-30,EI1605,V38784030,Bodily reaction,Illness/infection,,,,,First Aid,Locker Room,Davis Center
-2020-12-31,EI1607,V94641591,MVA,Laceration,Hand,L,7,,Modified Duty,Dougherty Drive,
-2022-09-01,EI1605,V76426446,Extreme temperature,Illness/infection,,,,3,Lost Time,Training Room,Jake Nevin
-2018-08-18,EI1607,V47068036,Overexertion,Sprain/strain,Arm,R,,,First Aid,Hallway,Bartley
-2022-12-03,EI1603,V14874768,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Grounds,CEER
-2018-01-09,EI1605,V10170530,Other,Illness/infection,Internal organ,,,,Recordable,Loading Dock,Donahue
-2021-11-01,EI1609,V82861636,Contact w/ electrical,Burn,Finger,L,3,,Modified Duty,Hallway,Bartley
-2018-06-16,EI1611,V75674102,Rubbed/abraded,Abrasion,Leg,R,5,,Modified Duty,Grounds,Kennedy
-2022-04-06,EI1613,V42745303,Caught in,Laceration,Head,,,,First Aid,Loading Dock,Connelly
-2022-07-01,EI1615,V47143765,Contact w/ chemical,Rash,Face,R,,,First Aid,Athletics Complex,Talley Center
-2022-12-17,EI1617,V84902898,STF - same level,Contusion,Hand,L,,,First Aid,Hallway,Maintenance Building
-2022-10-26,EI1617,V92562263,STF - elevation,Contusion,Finger,L,,,First Aid,Dumpster enclosure,Sullivan
-2018-10-21,EI1619,V46682449,Caught in,Fracture,Hand,R,,,First Aid,Office,SAC
-2022-07-18,EI1621,V72992957,Struck by,Contusion,Leg,R,,,First Aid,Grounds,Sheehan
-2018-07-06,EI1619,V68215572,Rubbed/abraded,Abrasion,Leg,R,,,Recordable,Lab,Mendel
-2022-03-06,EI1623,V47306616,Extreme temperature,Burn,Hand,L,,,Recordable,Mechanical Room,Davis Center
-2022-10-31,EI1625,V78195414,Struck by,Crushed,Leg,L,12,,Modified Duty,Office,TSB
-2021-03-11,EI1627,V28663066,Extreme temperature,Other,,,16,,Modified Duty,Loading Dock,Connelly
-2022-11-05,EI1629,V10599147,MVA,Contusion,Face,R,,,Recordable,"Ryan's Way",
-2021-10-23,EI1631,V70434803,MVA,Contusion,Head,,,,First Aid,"Ryan's Way",
-2020-06-20,EI1633,V67723614,Other,,,,,,First Aid,Kitchen,Driscoll
-2019-01-30,EI1635,V54628525,Struck by,Contusion,Head,,,,First Aid,Hallway,Dougherty
-2020-11-11,EI1637,V19328937,Contact w/ chemical,Rash,Hand,R,,,Recordable,Carpenter Shop,Maintenance Building
-2019-06-16,EI1637,V79908598,Struck by,Contusion,Hand,L,,,First Aid,Grounds,Sheehan
-2018-01-29,EI1639,V23469597,Struck against,Contusion,Finger,R,,,First Aid,Kitchen,Finneran Pavilion
-2021-06-29,EI1641,V15896086,Caught in,Laceration,Finger,R,,,Recordable,Mechanical Room,Davis Center
-2019-05-01,EI1641,V18264855,Bodily reaction,Inhalation,,,2,,Modified Duty,Mechanical Room,Mendel
-2021-04-24,EI1643,V11772841,Puncture,Foreign body,Finger,,,,First Aid,Office,SAC
-2022-04-10,EI1645,V35877550,Struck by,Contusion,Hand,R,,,First Aid,Mechanical Room,Talley Center
-2020-12-30,EI1647,V83766130,STF - same level,Contusion,Multiple,,,,Recordable,Kitchen,St. Mary
-2022-11-11,EI1645,V40772151,Caught in,Laceration,Foot/feet,L,,,First Aid,Kitchen,Finneran Pavilion
-2020-02-18,EI1649,V31982661,Contact w/ electrical,Burn,Finger,R,5,,Modified Duty,Mechanical Room,Driscoll
-2022-10-09,EI1651,V87415586,Puncture,Puncture,Foot/feet,,98,,Modified Duty,Office,TSB
-2018-05-26,EI1651,V74609024,Struck against,Fracture,Arm,L,,19,Lost Time,Classroom,Driscoll
-2018-02-22,EI1653,V94248401,STF - elevation,Contusion,Hand,R,,,First Aid,Garage,Stadium
-2020-07-06,EI1655,V14289875,Bodily reaction,Other,,,10,,Modified Duty,Loading Dock,Donahue
-2022-02-20,EI1657,V31874693,STF - same level,Contusion,Face,R,,,First Aid,Grounds,CEER
-2019-10-15,EI1659,V61039932,STF - same level,Abrasion,Eye,L,,,First Aid,Stockroom,Dougherty
-2018-04-21,EI1661,V69103846,Contact w/ chemical,Rash,Face,L,,,First Aid,Hallway,Tolentine
-2018-07-06,EI1663,V90898227,Extreme temperature,Illness/infection,,,,,Recordable,Mechanical Room,Alumni
-2018-01-27,EI1665,V33629051,Caught in,Contusion,Foot/feet,L,,,Recordable,Mechanical Room,Hovnanian
-2022-07-22,EI1667,V42905922,Overexertion,Sprain/strain,Torso,L,12,,Modified Duty,Dumpster enclosure,Sullivan
-2018-01-09,EI1661,V93702960,Overexertion,Repetitive motion,Hand,R,,,First Aid,Office,Corr
-2021-03-07,EI1669,V47298445,STF - same level,Laceration,Foot/feet,R,,,Recordable,Training Room,Jake Nevin
-2020-06-04,EI1671,V48150861,Contact w/ electrical,Burn,Hand,L,5,,Modified Duty,Lab,Mendel
-2021-12-09,EI1669,V27292380,STF - elevation,Abrasion,Leg,R,,,First Aid,Training Room,Jake Nevin
-2020-10-07,EI1673,V37329442,Contact w/ chemical,Rash,Eye,R,,,First Aid,Stockroom,Dougherty
-2020-09-28,EI1669,V77757464,Contact w/ chemical,Inhalation,Internal organ,,1,,Modified Duty,Office,Austin
+Date of Injury,Employee,WC Claim #,Injury/Illness Type,Injury/Illness Nature,Affected Area,Side,Modified Days,Lost Time Days,Recorded Injury Classification,Location,Building
+4/7/2022,EI1011,V88820070,STF - same level,Contusion,Leg,L,,,First Aid,Dumpster enclosure,Sullivan
+4/10/2020,EI1013,V92696025,Struck against,Sprain/strain,Hand,R,,,First Aid,Hallway,Stanford
+1/6/2022,EI1015,V37846864,Struck against,Fracture,Torso,,19,,Modified Duty,Grounds,Finneran Pavilion
+11/7/2019,EI1017,V76310773,MVA,Laceration,Head,,,,First Aid,Ryan's Way,
+8/16/2019,EI1017,V23588924,Extreme temperature,Burn,Hand,R,,,First Aid,Kitchen,Scarpa
+10/5/2020,EI1017,V71430920,Puncture,Puncture,Foot/feet,,,,Recordable,Kitchen,Finneran Pavilion
+5/24/2020,EI1019,V72358972,Struck against,Contusion,Finger,L,,,First Aid,Soccer Field - West,
+4/21/2019,EI1021,V43320602,Bodily reaction,Illness/infection,,,,,First Aid,Roof,Jake Nevin
+5/6/2021,EI1021,V38820443,Puncture,Puncture,Multiple,,,,First Aid,Custodial closet,Canon
+10/14/2020,EI1021,V89885456,Struck against,Contusion,Finger,L,,,First Aid,Office,Austin
+11/14/2021,EI1023,V30344583,Caught in,Puncture,Hand,L,,,First Aid,Office,SAC
+9/21/2019,EI1023,V35677522,Struck against,Contusion,Arm,L,,,First Aid,Training Room,Jake Nevin
+9/24/2022,EI1023,V91517729,Struck against,Laceration,Arm,R,4,,Modified Duty,Dumpster enclosure,Sullivan
+8/23/2022,EI1023,V62469854,Rubbed/abraded,Abrasion,Wrist,R,,,First Aid,Soccer Field - West,
+4/19/2019,EI1025,V91686633,Struck by,Contusion,Hand,R,,,First Aid,Grounds,Inn
+5/2/2021,EI1027,V74931049,Contact w/ chemical,Rash,Face,L,,,First Aid,Lab,CEER
+7/14/2018,EI1027,V99989565,Contact w/ electrical,Burn,Arm,L,,,First Aid,Mechanical Room,White
+3/3/2021,EI1027,V84945453,Extreme temperature,Rash,Wrist,L,,,Recordable,Office,TSB
+5/3/2021,EI1029,V73184033,Overexertion,Sprain/strain,Torso,R,,69,Lost Time,Grounds,Dougherty
+10/17/2018,EI1031,V65363570,STF - elevation,Fracture,Multiple,,,,Recordable,Residence Room,Canon
+4/5/2021,EI1033,V51509602,Contact w/ chemical,Rash,Face,R,,1,Lost Time,Garage,Stadium
+6/5/2022,EI1033,V44685291,Contact w/ electrical,Burn,Hand,L,,,First Aid,Hallway,Garey
+1/20/2018,EI1033,V12935214,Contact w/ chemical,Rash,Face,R,,,First Aid,Grounds,Sheehan
+11/13/2021,EI1035,V76175258,Extreme temperature,Illness/infection,,,,,Recordable,Lab,CEER
+6/24/2018,EI1037,V28187618,Contact w/ electrical,Burn,Finger,L,,,First Aid,Stockroom,St. Mary
+2/27/2018,EI1037,V75051503,Other,,,,,,First Aid,Kitchen,Driscoll
+11/28/2020,EI1037,V23835655,MVA,Laceration,Leg,R,,,Recordable,Commons Driveway,
+11/11/2021,EI1039,V22648069,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Office,Corr
+5/14/2019,EI1041,V59505808,Bodily reaction,Inhalation,,,,,Recordable,Lab,Mendel
+2/1/2020,EI1043,V42045447,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Grounds,McGuinn
+10/14/2018,EI1041,V25752895,Overexertion,Sprain/strain,Torso,R,,,Recordable,Hallway,Driscoll
+10/15/2019,EI1045,V64302175,Contact w/ chemical,Rash,Hand,R,,,First Aid,Mechanical Room,Davis Center
+6/2/2019,EI1047,V14846311,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Kitchen,Connelly
+3/27/2022,EI1045,V91441536,MVA,Laceration,Hand,R,,8,Lost Time,Dougherty Drive,
+4/7/2019,EI1049,V91425008,Overexertion,Sprain/strain,Arm,L,,,First Aid,Mechanical Room,Farley
+1/30/2019,EI1049,V10467414,Extreme temperature,Burn,Hand,R,,,First Aid,Grounds,McGuinn
+4/10/2022,EI1049,V76438046,STF - same level,Abrasion,Hand,R,,,Recordable,Residence Room,Friar
+12/25/2020,EI1051,V57403461,MVA,Laceration,Head,,,,First Aid,Ryan's Way,
+8/9/2022,EI1051,V64474206,Puncture,Puncture,Foot/feet,,,,First Aid,Training Room,Jake Nevin
+11/26/2022,EI1051,V54438684,STF - same level,Contusion,Leg,R,,,First Aid,Grounds,Stadium
+8/28/2022,EI1053,V76649227,STF - same level,Abrasion,Torso,R,,,First Aid,Lab,Mendel
+1/26/2021,EI1053,V25728637,Contact w/ chemical,Rash,Eye,R,,3,Lost Time,Office,TSB
+11/15/2021,EI1055,V11538726,Contact w/ chemical,Rash,Eye,R,,,First Aid,Grounds,St. Monica
+1/26/2021,EI1055,V98704967,Struck by,Laceration,Foot/feet,R,,,Recordable,Grounds,St. Monica
+5/10/2020,EI1057,V19537922,Extreme temperature,Illness/infection,,,,,First Aid,Kitchen,Connelly
+7/7/2020,EI1057,V76915238,Contact w/ electrical,Burn,Finger,R,,,Recordable,Training Room,Jake Nevin
+6/25/2022,EI1057,V44630782,Rubbed/abraded,Abrasion,Finger,L,,,Recordable,Hallway,Sheehan
+10/26/2022,EI1059,V40177495,Other,Puncture,Hand,,,,Recordable,Grounds,CEER
+11/17/2019,EI1059,V39470506,Caught in,Laceration,Finger,R,,,Recordable,Stockroom,Dougherty
+1/10/2018,EI1061,V18747104,MVA,Contusion,Face,L,,6,Lost Time,Ryan's Way,
+4/13/2021,EI1063,V48351048,Other,,,,,, Not Work Related,Kitchen,Donahue
+1/25/2021,EI1063,V25162601,MVA,Laceration,Finger,L,,,Recordable,Dougherty Drive,
+3/15/2022,EI1063,V88455924,Caught in,Laceration,Finger,L,25,,Modified Duty,Mechanical Room,Davis Center
+3/3/2019,EI1063,V24586955,Caught in,Laceration,Finger,L,,,First Aid,Office,TSB
+12/5/2022,EI1063,V93725826,Contact w/ chemical,Rash,Finger,R,,,First Aid,Loading Dock,Donahue
+3/30/2019,EI1065,V65438139,Extreme temperature,Illness/infection,,,,,First Aid,Carpenter Shop,Maintenance Building
+9/14/2020,EI1065,V18404209,Other,Laceration,Hand,,,,Recordable,Hallway,Moriarty
+1/30/2021,EI1065,V72325805,Rubbed/abraded,Abrasion,Leg,L,,,First Aid,Office,Villanova Center
+2/23/2020,EI1065,V22719939,Contact w/ chemical,Inhalation,Internal organ,,,,First Aid,Grounds,Stanford
+9/22/2019,EI1065,V34558157,Rubbed/abraded,Abrasion,Face,,,,First Aid,Lab,ChemE
+10/10/2020,EI1065,V81334139,Rubbed/abraded,Abrasion,Wrist,L,,,Recordable,Mechanical Room,HSB
+2/24/2020,EI1067,V15296278,Overexertion,Sprain/strain,Back,,,,First Aid,Steam Plant,Steam Plant
+12/26/2018,EI1067,V99852343,Caught in,Contusion,Hand,R,,,First Aid,Grounds,Finneran Pavilion
+10/16/2018,EI1067,V32480652,Contact w/ electrical,Burn,Hand,L,,,Recordable,Carpenter Shop,CEER
+4/27/2020,EI1069,V83026006,MVA,Contusion,Face,L,,12,Lost Time,Ryan's Way,
+12/14/2020,EI1069,V22455660,Caught in,Contusion,Foot/feet,R,,,First Aid,Office,Kennedy
+5/3/2021,EI1069,V55359721,Struck against,Amputation,Multiple,,,,Recordable,Hallway,Scarpa
+11/15/2019,EI1071,V93073490,Other,Laceration,Hand,,,,First Aid,Stockroom,Dougherty
+4/23/2022,EI1071,V99414365,Extreme temperature,Burn,Wrist,R,4,,Modified Duty,Kitchen,Finneran Pavilion
+8/21/2022,EI1073,V99444033,Struck by,Laceration,Foot/feet,R,,,Recordable,Soccer Field - West,
+4/28/2020,EI1075,V45752532,STF - same level,Laceration,Head,,,,Recordable,Lab,ChemE
+4/15/2020,EI1075,V21954388,Rubbed/abraded,Abrasion,Finger,L,,,Recordable,Hallway,Sheehan
+10/30/2018,EI1075,V86597763,Rubbed/abraded,Abrasion,Wrist,L,,,First Aid,Residence Room,Trinity
+6/5/2022,EI1077,V16207906,Other,,,,,,First Aid,Hallway,Stanford
+10/24/2020,EI1077,V34038991,Contact w/ chemical,Rash,Eye,L,,,First Aid,Hallway,St. Rita
+3/22/2021,EI1077,V45940248,STF - same level,Contusion,Face,R,,,First Aid,Stockroom,St. Mary
+8/22/2021,EI1077,V31833214,Rubbed/abraded,Abrasion,Neck,R,,5,Lost Time,Hallway,Trinity
+8/21/2018,EI1077,V75300557,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Hallway,Bartley
+10/3/2020,EI1079,V75468461,Contact w/ chemical,Rash,Hand,R,,,Recordable,Office,SAC
+10/10/2018,EI1079,V28149346,Puncture,Puncture,Foot/feet,,,,First Aid,Kitchen,Bartley
+8/5/2019,EI1081,V22300376,Extreme temperature,Rash,Wrist,L,,,First Aid,Kitchen,Friar
+5/4/2018,EI1081,V92855974,Extreme temperature,Other,,,,,First Aid,Dumpster enclosure,Sullivan
+12/31/2020,EI1083,V36668630,Bodily reaction,Inhalation,,,,,Recordable,Lab,Mendel
+12/8/2020,EI1085,V24658336,Puncture,Puncture,Leg,R,7,,Modified Duty,Loading Dock,Connelly
+8/19/2020,EI1087,V98996628,STF - same level,Abrasion,Face,,,,First Aid,Training Room,Jake Nevin
+4/27/2020,EI1087,V30462655,Struck against,Contusion,Torso,,,,First Aid,Hallway,Aldwyn
+12/28/2019,EI1089,V44923094,STF - same level,Laceration,Hand,R,,,Recordable,Hallway,Scarpa
+12/24/2020,EI1087,V53337712,MVA,Sprain/strain,Neck,L,10,,Modified Duty,Lancaster Ave,
+11/28/2022,EI1091,V23482135,Rubbed/abraded,Abrasion,Finger,R,,,Recordable,Office,SAC
+2/24/2021,EI1091,V50328414,STF - same level,Contusion,Hand,R,,,First Aid,Grounds,Finneran Pavilion
+12/22/2020,EI1093,V71459250,Struck by,Laceration,Hand,L,,,First Aid,Kitchen,St. Mary
+4/2/2020,EI1093,V48315795,Struck against,Contusion,Arm,L,,,First Aid,Kitchen,Finneran Pavilion
+5/3/2019,EI1095,V93161384,Contact w/ electrical,Burn,Finger,R,2,,Modified Duty,Grounds,Kennedy
+4/7/2022,EI1097,V95742172,Overexertion,Sprain/strain,Back,,,,Recordable,Office,SAC
+5/24/2022,EI1099,V56170783,STF - same level,Contusion,Torso,L,,,First Aid,Dumpster enclosure,St. Rita
+9/1/2021,EI1101,V23346217,Bodily reaction,Illness/infection,,,9,,Modified Duty,Locker Room,Finneran Pavilion
+7/10/2022,EI1097,V51848411,Overexertion,Sprain/strain,Arm,L,,,Recordable,Grounds,Stone
+6/11/2020,EI1103,V56858596,Overexertion,Sprain/strain,Torso,L,8,,Modified Duty,Office,Driscoll
+8/20/2022,EI1101,V19452323,MVA,Fracture,Finger,R,,,First Aid,Route 476,
+12/4/2018,EI1105,V97042013,Other,Contusion,Face,,,,First Aid,Steam Plant,Steam Plant
+7/20/2019,EI1105,V25215259,Bodily reaction,Illness/infection,,,175,3,Lost Time,Hallway,Tolentine
+10/13/2022,EI1105,V66436563,Caught in,Contusion,Foot/feet,R,,,First Aid,Mechanical Room,Sullivan
+5/5/2020,EI1105,V43985797,Extreme temperature,Other,,,2,,Modified Duty,Soccer Field - West,
+9/26/2019,EI1107,V91242200,Extreme temperature,Illness/infection,,,,,First Aid,Grounds,Finneran Pavilion
+10/12/2021,EI1107,V87715237,Rubbed/abraded,Abrasion,Hand,R,4,,Modified Duty,Grounds,Corr
+10/5/2019,EI1107,V99191979,STF - same level,Laceration,Finger,R,,,Recordable,Lab,Mendel
+5/6/2022,EI1107,V73209217,Bodily reaction,Inhalation,,,,,First Aid,Office,Vasey
+5/13/2020,EI1109,V98939626,Contact w/ electrical,Burn,Arm,R,,,First Aid,Court,Finneran Pavilion
+11/23/2020,EI1111,V29411569,Contact w/ electrical,Burn,Hand,L,,,First Aid,Hallway,Garey
+9/29/2020,EI1111,V59767331,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Roof,Talley Center
+2/10/2021,EI1111,V83087119,STF - same level,Fracture,Arm,L,,4,Lost Time,Grounds,Kennedy
+11/28/2022,EI1111,V49688905,Contact w/ chemical,Inhalation,Internal organ,,,,First Aid,Hallway,Scarpa
+6/30/2018,EI1113,V41339317,Contact w/ chemical,Rash,Hand,R,,,Recordable,Kitchen,Dougherty
+12/1/2021,EI1115,V81891812,STF - same level,Fracture,Finger,L,9,,Modified Duty,Grounds,O'Dwyer
+11/11/2020,EI1117,V36635712,Contact w/ electrical,Burn,Hand,L,,,First Aid,Kitchen,St. Mary
+4/11/2020,EI1117,V33197975,MVA,Fracture,Leg,L,85,,Modified Duty,SAC Drive,
+12/24/2022,EI1119,V70277842,Puncture,Puncture,Leg,R,5,,Modified Duty,Court,Finneran Pavilion
+11/13/2021,EI1121,V19562275,Caught in,Laceration,Hand,L,2,,Modified Duty,Mechanical Room,Davis Center
+5/23/2018,EI1123,V47428760,Puncture,Puncture,Finger,,,,First Aid,Grounds,Finneran Pavilion
+4/17/2019,EI1125,V30720334,Rubbed/abraded,Abrasion,Leg,L,,2,Lost Time,Grounds,McGuinn
+12/3/2019,EI1125,V93473875,Contact w/ electrical,Burn,Hand,R,,,Recordable,Hallway,Sheehan
+10/10/2022,EI1127,V28190953,Caught in,Laceration,Hand,R,8,,Modified Duty,Garage,Stadium
+4/22/2021,EI1127,V48417931,Rubbed/abraded,Abrasion,Finger,L,29,,Modified Duty,Garage,Stadium
+12/13/2018,EI1129,V80208807,Struck against,Contusion,Torso,,,,First Aid,Kitchen,Connelly
+4/22/2021,EI1131,V99429725,MVA,Contusion,Torso,R,,,First Aid,Ryan's Way,
+9/10/2018,EI1133,V80207559,Bodily reaction,Illness/infection,,,,,First Aid,Grounds,Klekotka
+10/5/2019,EI1135,V99209319,Extreme temperature,Other,,,,,First Aid,Dumpster enclosure,Canon
+3/8/2021,EI1137,V60578670,Caught in,Laceration,Finger,L,,,Recordable,Stockroom,Dougherty
+2/22/2020,EI1137,V81086095,Extreme temperature,Rash,Neck,,,,First Aid,Office,St. Mary
+9/28/2022,EI1133,V47271701,STF - same level,Contusion,Leg,R,,,First Aid,Grounds,Stadium
+12/25/2020,EI1139,V88624546,Puncture,Foreign body,Finger,,,,First Aid,Hallway,Stanford
+2/28/2022,EI1139,V73738638,MVA,Laceration,Finger,R,,,First Aid,Commons Driveway,
+8/15/2022,EI1141,V83490486,Caught in,Sprain/strain,Torso,,,102,Lost Time,Mechanical Room,Driscoll
+8/12/2018,EI1139,V16620644,MVA,Fracture,Multiple,,,,Recordable,Route 476,
+7/20/2021,EI1143,V44888512,STF - elevation,Fracture,Arm,L,,6,Lost Time,Office,SAC
+1/26/2018,EI1143,V96458979,Overexertion,Sprain/strain,Back,,,26,Lost Time,Office,SAC
+2/25/2021,EI1145,V47720426,Bodily reaction,Inhalation,,,,,First Aid,Locker Room,Finneran Pavilion
+3/23/2021,EI1147,V99154750,MVA,Sprain/strain,Hand,L,,,First Aid,Lancaster Ave,
+8/13/2019,EI1147,V95898935,Struck by,Fracture,Foot/feet,L,,,Recordable,Office,Corr
+4/6/2021,EI1149,V19290738,Struck against,Rash,Hand,R,,1,Lost Time,Garage,Stadium
+7/16/2018,EI1151,V11585564,Contact w/ chemical,Rash,Hand,R,,,First Aid,Kitchen,Dougherty
+2/3/2019,EI1153,V99020395,Extreme temperature,Rash,Wrist,L,,,First Aid,Office,TSB
+3/22/2020,EI1155,V51582856,STF - elevation,Contusion,Finger,L,,,First Aid,Kitchen,Finneran Pavilion
+5/8/2019,EI1157,V45214595,Puncture,Foreign body,Eye,R,,,First Aid,,SAC
+5/29/2019,EI1159,V85280410,Contact w/ chemical,Rash,Eye,L,,,Recordable,Mechanical Room,Bartley
+4/25/2018,EI1161,V85769455,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Grounds,Good Counsel
+5/12/2020,EI1163,V36051555,MVA,Sprain/strain,Leg,R,,,Recordable,Route 422,
+1/28/2018,EI1165,V60393816,STF - elevation,Fracture,Multiple,,,,Recordable,Mechanical Room,HSB
+1/31/2018,EI1167,V68058326,MVA,Laceration,Finger,L,,,Recordable,Commons Driveway,
+5/2/2021,EI1169,V80289079,Other,Illness/infection,Internal organ,,,7,Lost Time,Classroom,Scarpa
+5/1/2018,EI1167,V88988754,STF - elevation,Fracture,Leg,L,15,,Modified Duty,Training Room,Jake Nevin
+7/21/2021,EI1169,V27022335,Struck against,Contusion,Face,R,,,First Aid,Mechanical Room,Driscoll
+11/22/2021,EI1171,V89633250,Overexertion,Sprain/strain,Back,,,,First Aid,Grounds,Sullivan
+5/25/2022,EI1173,V74885082,Struck against,Contusion,Torso,,,,First Aid,Kitchen,Donahue
+11/7/2018,EI1171,V66894729,MVA,Laceration,Groin,,,,First Aid,Dougherty Drive,
+12/22/2022,EI1175,V89381444,Contact w/ chemical,Rash,Eye,L,,,First Aid,Hallway,St. Rita
+6/20/2018,EI1177,V91891093,Bodily reaction,Illness/infection,,,5,,Modified Duty,Grounds,Stanford
+10/8/2021,EI1179,V58633271,MVA,Laceration,Head,,,,Recordable,Dougherty Drive,
+11/11/2020,EI1177,V23324333,Puncture,Puncture,Leg,,,,First Aid,Grounds,Stadium
+5/17/2018,EI1181,V30007078,STF - same level,Laceration,Face,,,,Recordable,Loading Dock,St. Mary
+1/25/2021,EI1183,V37231381,Extreme temperature,Illness/infection,,,,,First Aid,Hallway,Good Counsel
+6/17/2021,EI1183,V34245261,MVA,Laceration,Hand,L,,,Recordable,Dougherty Drive,
+11/17/2021,EI1185,V75847394,Struck against,Fracture,Hand,R,,6,Lost Time,Garage,Stadium
+8/9/2022,EI1187,V53682676,Rubbed/abraded,Abrasion,Hand,R,,27,Lost Time,Lab,Mendel
+5/3/2021,EI1185,V64315358,Struck by,Laceration,Finger,R,,,Recordable,Grounds,Sullivan
+4/26/2018,EI1185,V24115694,Puncture,Puncture,Foot/feet,,,,First Aid,Mechanical Room,Welsh
+11/5/2022,EI1189,V48250961,Struck against,Laceration,Arm,L,3,,Modified Duty,Mechanical Room,Finneran Pavilion
+9/13/2021,EI1187,V91198569,Puncture,Puncture,Leg,R,29,,Modified Duty,Office,St. Mary
+4/6/2020,EI1191,V43904546,Contact w/ electrical,Burn,Finger,L,,,First Aid,Grounds,McGuinn
+11/21/2020,EI1193,V93716068,Overexertion,Sprain/strain,Torso,L,,57,Lost Time,Training Room,Jake Nevin
+9/27/2021,EI1191,V71050990,Contact w/ chemical,Rash,Face,L,29,,Modified Duty,Hallway,Trinity
+11/15/2019,EI1195,V33631822,Contact w/ electrical,Burn,Hand,R,,7,Lost Time,Office,SAC
+3/1/2021,EI1197,V88951704,Contact w/ chemical,Rash,Face,L,,,First Aid,Roof,Talley Center
+4/4/2021,EI1199,V26439403,Other,Illness/infection,Internal organ,,,9,Lost Time,Stockroom,Dougherty
+5/8/2018,EI1197,V29573768,Struck against,Contusion,Finger,R,,,First Aid,Kitchen,Friar
+11/3/2020,EI1197,V50189592,Extreme temperature,Other,,,,,First Aid,Mechanical Room,Sullivan
+11/14/2021,EI1201,V77324688,Rubbed/abraded,Abrasion,Finger,R,,,First Aid,Kitchen,Dougherty
+6/13/2021,EI1203,V88956909,Other,Amputation,Finger,,,5,Lost Time,Grounds,Inn
+3/7/2019,EI1205,V15433232,Rubbed/abraded,Abrasion,Hand,R,,,First Aid,Grounds,Sullivan
+2/24/2022,EI1201,V74519126,Struck against,Contusion,Torso,,,,First Aid,Dumpster enclosure,St. Mary
+7/5/2022,EI1203,V31837688,Struck against,Crushed,Torso,,,,Recordable,Hallway,Finneran Pavilion
+2/5/2022,EI1205,V75349576,Bodily reaction,Inhalation,,,,,Recordable,Mechanical Room,Austin
+9/8/2021,EI1205,V80065127,Struck by,Contusion,Back,,,,First Aid,Grounds,St. Monica
+1/23/2019,EI1207,V47990526,STF - same level,Contusion,Torso,R,,,First Aid,Hallway,Griffin
+12/13/2020,EI1209,V68442876,Contact w/ electrical,Burn,Finger,L,,7,Lost Time,Office,Vasey
+5/29/2019,EI1209,V70637153,Other,,,,,,First Aid,Office,Villanova Center
+2/10/2021,EI1211,V42097498,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Court,Finneran Pavilion
+9/26/2022,EI1211,V32709368,MVA,Sprain/strain,Back,R,59,8,Lost Time,Lancaster Ave,
+9/7/2018,EI1213,V76745189,Other,Contusion,Foot/feet,,,,First Aid,Garage,Stadium
+9/23/2018,EI1215,V73397257,STF - elevation,Contusion,Arm,L,,,First Aid,Hallway,Good Counsel
+11/16/2020,EI1217,V31294986,Other,,,,,,First Aid,Grounds,Donahue
+7/27/2018,EI1213,V87109037,Overexertion,Sprain/strain,Arm,R,,,First Aid,Grounds,CEER
+4/9/2018,EI1213,V61387287,Other,,,,,,First Aid,Grounds,Kennedy
+12/19/2022,EI1219,V61632599,MVA,Fracture,Foot/feet,L,,,Recordable,SAC Drive,
+10/12/2018,EI1215,V23825633,Contact w/ electrical,Burn,Arm,R,,,Recordable,Mechanical Room,Sheehan
+8/2/2019,EI1215,V21022606,STF - elevation,Fracture,Arm,R,,,Recordable,Custodial closet,Bartley
+7/10/2018,EI1221,V24015624,Bodily reaction,Other,,,,,First Aid,Soccer Field - West,
+7/7/2020,EI1223,V47113921,Contact w/ chemical,Rash,Hand,R,,,First Aid,Office,SAC
+11/10/2022,EI1225,V30124138,Contact w/ electrical,Burn,Hand,R,,,Recordable,Garage,Stadium
+5/25/2018,EI1227,V36664707,STF - elevation,Fracture,Arm,R,3,21,Lost Time,Hallway,Canon
+6/2/2020,EI1229,V76296286,Rubbed/abraded,Abrasion,Leg,L,,,First Aid,Stockroom,Donahue
+9/1/2018,EI1227,V50161418,Bodily reaction,Illness/infection,,,,,Recordable,Hallway,Sheehan
+8/27/2019,EI1231,V45571748,Caught in,Laceration,Head,,,2,Lost Time,Grounds,Stadium
+6/5/2018,EI1229,V45413264,Rubbed/abraded,Abrasion,Wrist,R,,,First Aid,Loading Dock,Donahue
+5/20/2018,EI1233,V86912999,STF - elevation,Contusion,Head,,,,First Aid,Grounds,Sheehan
+3/29/2020,EI1233,V37566260,Puncture,Puncture,Finger,,2,,Modified Duty,Grounds,Sullivan
+10/4/2022,EI1233,V92256186,STF - elevation,Abrasion,Head,,,,First Aid,Mechanical Room,Sullivan
+12/22/2021,EI1235,V71328376,STF - elevation,Abrasion,Leg,R,,,First Aid,Carpenter Shop,CEER
+6/12/2020,EI1237,V90250164,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Classroom,Bartley
+12/3/2022,EI1237,V12859087,Extreme temperature,Burn,Wrist,R,,,Recordable,Kitchen,Scarpa
+4/26/2019,EI1239,V76817867,STF - elevation,Contusion,Hand,L,,,First Aid,Loading Dock,Donahue
+6/14/2020,EI1241,V32884314,MVA,Puncture,Foot/feet,L,,,First Aid,Route 476,
+2/1/2020,EI1239,V82709942,Other,Illness/infection,Internal organ,,,,Recordable,Softball Field,
+11/12/2019,EI1243,V46743729,STF - same level,Contusion,Hand,L,,,First Aid,Office,SAC
+1/4/2019,EI1245,V32806906,STF - same level,Abrasion,Face,,,,First Aid,Grounds,McGuinn
+11/30/2018,EI1247,V48763744,Struck against,Laceration,Arm,R,,,First Aid,Mechanical Room,Rudolph
+3/6/2020,EI1249,V63539994,Puncture,Puncture,Hand,,,,First Aid,Lab,Mendel
+3/24/2018,EI1251,V23596800,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Hallway,Fedigan
+6/7/2018,EI1249,V68684449,Puncture,Puncture,Finger,L,1,,Modified Duty,Lab,Tolentine
+3/19/2022,EI1253,V28451879,Contact w/ chemical,Rash,Face,L,,,Recordable,Carpenter Shop,Maintenance Building
+3/18/2022,EI1253,V58518768,Contact w/ electrical,Burn,Arm,L,,,Recordable,Mechanical Room,HSB
+6/4/2021,EI1255,V85796058,STF - same level,Abrasion,Hand,R,,,Recordable,Lab,Tolentine
+12/13/2022,EI1257,V20101216,Struck against,Abrasion,Hand,R,,,First Aid,Garage,Stadium
+10/10/2019,EI1259,V30254659,Puncture,Puncture,Hand,,2,,Modified Duty,Kitchen,St. Mary
+4/29/2022,EI1261,V90072069,Rubbed/abraded,Abrasion,Finger,R,,4,Lost Time,Garage,Stadium
+4/24/2019,EI1261,V99684370,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Grounds,Sheehan
+1/12/2018,EI1261,V50610632,Struck against,Crushed,Multiple,,,,Recordable,Custodial closet,Bartley
+4/26/2018,EI1263,V41444000,Other,Contusion,Foot/feet,,,,First Aid,Office,SAC
+6/29/2020,EI1265,V44693907,Overexertion,Sprain/strain,Back,,,,First Aid,Kitchen,Dougherty
+1/13/2022,EI1267,V58610305,MVA,Sprain/strain,Torso,R,,,Recordable,Lancaster Ave,
+10/26/2022,EI1269,V96559570,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Hallway,Stanford
+6/5/2021,EI1271,V98931654,Overexertion,Sprain/strain,Arm,R,,,First Aid,Office,Bartley
+1/5/2022,EI1273,V70747031,Rubbed/abraded,Abrasion,Face,,,,Recordable,Loading Dock,Connelly
+10/6/2020,EI1275,V61578069,Extreme temperature,Illness/infection,,,,,First Aid,Hallway,Good Counsel
+1/9/2021,EI1277,V14656079,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Office,Kennedy
+9/23/2018,EI1279,V60263891,Contact w/ electrical,Burn,Hand,R,,,First Aid,Grounds,Stanford
+9/7/2018,EI1277,V11212910,Puncture,Puncture,Finger,,,2,Lost Time,Hallway,Tolentine
+5/15/2022,EI1275,V83577129,Other,Laceration,Hand,,,,First Aid,Dumpster enclosure,St. Rita
+11/22/2022,EI1281,V69769157,Contact w/ electrical,Burn,Hand,L,,,Recordable,Mechanical Room,Mendel
+12/11/2019,EI1277,V71467588,Contact w/ electrical,Burn,Finger,R,,,First Aid,Office,Villanova Center
+6/20/2021,EI1283,V49283173,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Softball Field,
+7/31/2020,EI1285,V94384035,MVA,Contusion,Torso,R,,,First Aid,Ryan's Way,
+5/28/2018,EI1287,V98801720,Caught in,Contusion,Foot/feet,R,,,Recordable,Roof,Finneran Pavilion
+3/16/2021,EI1285,V62421144,Extreme temperature,Illness/infection,,,10,,Modified Duty,Stockroom,St. Mary
+9/15/2020,EI1289,V42411234,Contact w/ electrical,Burn,Hand,R,,,Recordable,Mechanical Room,Talley Center
+2/6/2021,EI1291,V58715918,Rubbed/abraded,Abrasion,Face,,,,First Aid,Custodial closet,Canon
+5/9/2020,EI1291,V22451317,Contact w/ electrical,Burn,Hand,L,,19,Lost Time,Hallway,Geraghty
+7/29/2022,EI1293,V14407291,Bodily reaction,Other,,,4,,Modified Duty,Lab,ChemE
+7/16/2020,EI1295,V55623519,Contact w/ electrical,Burn,Hand,R,,,First Aid,Hallway,Good Counsel
+9/18/2022,EI1295,V75965035,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Hallway,Good Counsel
+4/25/2022,EI1297,V35898841,Struck against,Contusion,Torso,,,,First Aid,Kitchen,Connelly
+7/14/2019,EI1299,V80899473,Overexertion,Sprain/strain,Back,,5,,Modified Duty,Carpenter Shop,Maintenance Building
+10/30/2018,EI1295,V82879216,Contact w/ electrical,Burn,Arm,R,,2,Lost Time,Custodial closet,Trinity
+8/22/2018,EI1301,V52130850,STF - elevation,Fracture,Finger,R,,,Recordable,Lab,ChemE
+12/12/2020,EI1303,V82357178,Other,Illness/infection,Internal organ,,,,Recordable,Soccer Field - West,
+5/9/2021,EI1295,V46369712,Other,Illness/infection,Internal organ,,,,Recordable,Custodial closet,Bartley
+5/21/2019,EI1305,V16863490,Other,,,,,,First Aid,Garage,Stadium
+8/12/2019,EI1307,V79470485,Puncture,Puncture,Leg,,,,Recordable,Custodial closet,Sheehan
+2/13/2019,EI1309,V99468550,Puncture,Foreign body,Finger,,,,Recordable,Grounds,Inn
+7/12/2022,EI1311,V25484004,Bodily reaction,Illness/infection,,,8,,Modified Duty,Grounds,Stanford
+5/30/2018,EI1313,V80978784,Puncture,Puncture,Leg,,,,First Aid,Office,Austin
+4/18/2019,EI1315,V61581707,Struck against,Laceration,Multiple,,,,Recordable,Custodial closet,Bartley
+8/28/2019,EI1317,V20302290,Overexertion,Sprain/strain,Arm,R,,,First Aid,Dumpster enclosure,Stanford
+8/26/2022,EI1319,V41052141,Other,,,,,,First Aid,Carpenter Shop,Maintenance Building
+6/20/2018,EI1317,V24062652,Contact w/ electrical,Burn,Hand,L,,,First Aid,Hallway,Garey
+8/6/2022,EI1321,V92438761,Contact w/ chemical,Rash,Eye,R,,,First Aid,Stockroom,St. Mary
+10/9/2022,EI1323,V48310782,MVA,Laceration,Groin,,,,First Aid,Dougherty Drive,
+6/24/2019,EI1325,V92193605,Contact w/ electrical,Burn,Finger,L,,,First Aid,Office,Vasey
+9/11/2018,EI1327,V90825987,Overexertion,Sprain/strain,Torso,R,,,Recordable,Grounds,St. Monica
+12/31/2019,EI1325,V35742875,Bodily reaction,Inhalation,,,3,,Modified Duty,Lab,Mendel
+9/27/2021,EI1329,V70259540,Puncture,Puncture,Finger,,,,First Aid,Hallway,Stanford
+8/30/2018,EI1331,V17354530,MVA,Contusion,Torso,R,,,First Aid,Ryan's Way,
+12/27/2019,EI1333,V85407984,Caught in,Contusion,Hand,L,,,First Aid,Hallway,Good Counsel
+11/24/2022,EI1335,V23079338,MVA,Contusion,Head,,,,First Aid,Ryan's Way,
+3/20/2020,EI1331,V45489927,STF - same level,Contusion,Groin,,,,First Aid,Kitchen,Maintenance Building
+8/2/2019,EI1335,V95750837,Struck by,Laceration,Leg,L,,,First Aid,Hallway,TSB
+9/18/2022,EI1337,V86296923,Other,Illness/infection,Internal organ,,,,Recordable,Stockroom,Donahue
+5/30/2018,EI1335,V61041651,Contact w/ chemical,Rash,Finger,L,,,Recordable,Grounds,Stadium
+6/4/2022,EI1339,V74666242,Bodily reaction,Other,,,,,Recordable,Loading Dock,Donahue
+11/23/2022,EI1341,V47691809,Struck against,Abrasion,Hand,R,,,First Aid,Garage,Stadium
+1/28/2019,EI1343,V36655231,Struck by,Laceration,Head,,,,First Aid,,Mendel
+5/18/2018,EI1343,V29188672,Puncture,Puncture,Hand,,,,First Aid,Lab,Mendel
+8/13/2019,EI1345,V33397245,Contact w/ chemical,Rash,Finger,L,,,First Aid,Hallway,Dougherty
+3/15/2019,EI1345,V61825013,MVA,Puncture,Hand,R,,,Recordable,Route 422,
+9/13/2018,EI1347,V66404271,STF - same level,Abrasion,Hand,R,,,First Aid,Kitchen,Dougherty
+1/30/2021,EI1349,V82547643,Overexertion,Sprain/strain,Arm,R,,,First Aid,Hallway,St. Rita
+12/29/2018,EI1351,V43626440,Extreme temperature,Illness/infection,,,2,,Modified Duty,Kitchen,Donahue
+3/28/2021,EI1353,V20108146,Struck by,Contusion,Groin,,,,First Aid,Office,St. Mary
+8/9/2021,EI1347,V14968411,Struck against,Crushed,Multiple,,,,Recordable,Loading Dock,St. Mary
+2/14/2021,EI1355,V55611974,Rubbed/abraded,Abrasion,Hand,L,,, Not Work Related,Carpenter Shop,Maintenance Building
+4/17/2018,EI1357,V11598276,STF - elevation,Contusion,Finger,L,,,First Aid,Training Room,Jake Nevin
+10/16/2022,EI1359,V49081720,MVA,Laceration,Leg,R,,,Recordable,Commons Driveway,
+1/1/2018,EI1359,V86170253,Other,,,,,,First Aid,Grounds,Dougherty
+12/22/2018,EI1361,V34197670,Rubbed/abraded,Abrasion,Leg,L,,,First Aid,Office,St. Mary
+9/26/2018,EI1363,V25062213,Puncture,Puncture,Multiple,,,,First Aid,Custodial closet,Sullivan
+7/6/2018,EI1365,V12383987,STF - same level,Fracture,Hand,L,21,,Modified Duty,Hallway,Kennedy
+5/26/2019,EI1367,V94392745,Overexertion,Sprain/strain,Arm,R,,8,Lost Time,Mechanical Room,Sullivan
+2/28/2019,EI1365,V49138150,Puncture,Puncture,Hand,,,,First Aid,Carpenter Shop,Mendel
+3/24/2019,EI1367,V19958008,STF - same level,Fracture,Arm,L,,10,Lost Time,Kitchen,Finneran Pavilion
+9/22/2021,EI1367,V85485386,Puncture,Puncture,Hand,,4,,Modified Duty,Hallway,Trinity
+12/14/2020,EI1369,V25426890,STF - same level,Contusion,Hand,L,,6,Lost Time,Garage,Stadium
+12/6/2019,EI1371,V59791776,Overexertion,Sprain/strain,Arm,L,56,105,Lost Time,Hallway,Burns
+5/15/2019,EI1373,V21737309,STF - elevation,Fracture,Hand,R,,,Recordable,Hallway,Scarpa
+4/15/2020,EI1375,V75541396,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Dumpster enclosure,Canon
+10/14/2022,EI1377,V96592039,Caught in,Laceration,Head,,,,First Aid,Office,Corr
+6/3/2019,EI1379,V41465086,Rubbed/abraded,Abrasion,Finger,R,,,Recordable,Softball Field,
+1/2/2019,EI1381,V76398532,Rubbed/abraded,Abrasion,Finger,L,,,First Aid,Carpenter Shop,Maintenance Building
+2/11/2021,EI1383,V97600545,Struck by,Fracture,Hand,L,7,,Modified Duty,,CEER
+5/31/2020,EI1383,V66847673,Bodily reaction,Inhalation,,,,,Recordable,Lab,Mendel
+10/6/2019,EI1385,V70067841,STF - elevation,Contusion,Hand,L,,,First Aid,Loading Dock,Connelly
+9/14/2019,EI1387,V69089308,Bodily reaction,Illness/infection,,,19,,Modified Duty,Softball Field,
+11/18/2019,EI1389,V87787950,Contact w/ chemical,Rash,Face,R,6,,Modified Duty,Lab,CEER
+6/22/2022,EI1387,V87967357,Struck by,Fracture,Arm,L,,15,Lost Time,Training Room,Jake Nevin
+5/5/2019,EI1391,V85730996,Overexertion,Sprain/strain,Torso,L,,,First Aid,Training Room,Jake Nevin
+8/31/2022,EI1393,V42691845,Contact w/ chemical,Inhalation,Internal organ,,,,First Aid,Mechanical Room,Sullivan
+5/6/2018,EI1395,V21414894,Puncture,Puncture,Finger,,,,First Aid,Carpenter Shop,Maintenance Building
+3/25/2021,EI1395,V63582446,Rubbed/abraded,Abrasion,Neck,R,,,First Aid,Grounds,Sullivan
+1/2/2022,EI1397,V16951640,MVA,Laceration,Hand,L,,,Recordable,Dougherty Drive,
+4/7/2018,EI1397,V13289066,Contact w/ electrical,Burn,Arm,R,,,First Aid,Mechanical Room,Mendel
+2/21/2019,EI1397,V33109294,Contact w/ chemical,Inhalation,Internal organ,,,,Recordable,Lab,White
+8/26/2021,EI1399,V80453444,STF - elevation,Contusion,Hand,L,,,First Aid,Kitchen,Dougherty
+1/10/2022,EI1401,V21428176,Other,Puncture,Finger,,,5,Lost Time,Grounds,Inn
+8/4/2018,EI1399,V52303870,STF - elevation,Contusion,Arm,R,,,Recordable,Kitchen,Connelly
+1/4/2020,EI1401,V74339406,Puncture,Puncture,Foot/feet,,,,First Aid,Mechanical Room,Mendel
+9/5/2022,EI1403,V47131505,Overexertion,Repetitive motion,Hand,R,,,Recordable,Kitchen,Dougherty
+5/24/2018,EI1405,V17412271,STF - same level,Laceration,Head,,,,Recordable,Grounds,St. Monica
+11/5/2020,EI1407,V87289093,Contact w/ electrical,Burn,Hand,R,,,First Aid,Kitchen,Connelly
+7/9/2022,EI1409,V85568520,Caught in,Contusion,Foot/feet,R,,6,Lost Time,Office,Kennedy
+4/2/2019,EI1407,V12012666,Struck by,Contusion,Leg,L,,,First Aid,Kitchen,Donahue
+3/7/2020,EI1411,V11974655,Struck against,Crushed,Multiple,,,,Recordable,Soccer Field - West,
+1/3/2018,EI1413,V33807633,Overexertion,Sprain/strain,Back,,,,First Aid,Mechanical Room,Davis Center
+11/18/2021,EI1415,V98174031,Rubbed/abraded,Abrasion,Neck,R,,,First Aid,Lab,Mendel
+5/7/2020,EI1417,V52258537,STF - same level,Fracture,Arm,L,,9,Lost Time,Stockroom,Donahue
+8/7/2018,EI1419,V12971856,Struck by,Amputation,Finger,R,,,Recordable,Locker Room,Davis Center
+10/24/2022,EI1421,V57131874,Caught in,Laceration,Finger,L,,,First Aid,Hallway,Davis Center
+2/1/2019,EI1421,V63912068,Struck by,Contusion,Back,,,,First Aid,Kitchen,Friar
+8/11/2020,EI1419,V12306676,Caught in,Laceration,Torso,,,,Recordable,Training Room,Jake Nevin
+2/12/2019,EI1423,V42818016,Extreme temperature,Other,,,,8,Lost Time,Grounds,Stanford
+7/14/2022,EI1425,V66922176,STF - same level,Laceration,Multiple,,,,Recordable,Carpenter Shop,Maintenance Building
+2/14/2022,EI1427,V92452457,MVA,Laceration,Hand,R,,,First Aid,Dougherty Drive,
+7/10/2020,EI1429,V72956722,Other,,,,,,First Aid,Training Room,Jake Nevin
+3/30/2018,EI1431,V34142191,MVA,Puncture,Internal organ,,,175,Lost Time,Route 422,
+9/25/2021,EI1433,V19498251,Struck against,Laceration,Multiple,,,,Recordable,Custodial closet,Bartley
+7/31/2019,EI1427,V14271892,Puncture,Puncture,Finger,,,,Recordable,Grounds,Riley
+12/28/2018,EI1435,V10285370,Contact w/ electrical,Burn,Hand,R,,,First Aid,Office,SAC
+11/10/2020,EI1435,V51258354,Contact w/ chemical,Rash,Hand,R,,,First Aid,Office,SAC
+8/26/2019,EI1437,V52515386,Bodily reaction,Inhalation,,,,,First Aid,Dumpster enclosure,St. Mary
+6/21/2022,EI1439,V33724477,Contact w/ electrical,Burn,Finger,R,,,First Aid,Kitchen,Finneran Pavilion
+10/29/2022,EI1441,V22570677,STF - elevation,Contusion,Hand,L,,,First Aid,Office,SAC
+5/9/2019,EI1443,V94723649,Bodily reaction,Illness/infection,,,,,Recordable,Grounds,Donahue
+7/2/2019,EI1445,V36113831,Overexertion,Sprain/strain,Arm,L,12,,Modified Duty,Hallway,Bartley
+3/3/2018,EI1447,V41803204,Other,Contusion,Foot/feet,,,,First Aid,Office,SAC
+6/6/2022,EI1449,V85530332,STF - elevation,Fracture,Arm,L,23,,Modified Duty,Lab,CEER
+12/7/2022,EI1451,V75835748,Caught in,Contusion,Foot/feet,R,,,Recordable,Athletics Complex,Talley Center
+12/18/2019,EI1447,V74970973,Contact w/ chemical,Rash,Face,L,,,Recordable,Hallway,Tolentine
+5/25/2018,EI1447,V50489814,Overexertion,Sprain/strain,Arm,R,,,First Aid,Carpenter Shop,CEER
+1/29/2021,EI1453,V26479697,Contact w/ electrical,Burn,Finger,R,4,,Modified Duty,Grounds,Kennedy
+11/27/2019,EI1451,V59320134,Overexertion,Repetitive motion,Wrist,L,,,First Aid,Kitchen,Finneran Pavilion
+3/19/2022,EI1455,V38874300,Struck by,Contusion,Leg,R,,,First Aid,Grounds,Delurey
+11/25/2018,EI1457,V51892499,STF - same level,Abrasion,Arm,L,,,First Aid,Training Room,Jake Nevin
+7/21/2020,EI1459,V74405452,Other,,,,,,First Aid,Grounds,Kennedy
+6/10/2021,EI1461,V12913885,STF - same level,Abrasion,Hand,R,,,Recordable,Custodial closet,HSB
+8/1/2018,EI1463,V80042113,Extreme temperature,Illness/infection,,,,,First Aid,Grounds,Sheehan
+11/2/2019,EI1465,V54357897,Contact w/ electrical,Burn,Finger,R,,,Recordable,Mechanical Room,Scarpa
+8/9/2021,EI1467,V42345552,MVA,Fracture,Multiple,,,,Recordable,SAC Drive,
+3/24/2020,EI1465,V31662803,Puncture,Puncture,Finger,,,,First Aid,Classroom,Tolentine
+12/26/2019,EI1469,V77823713,Struck against,Fracture,Hand,R,8,,Modified Duty,Grounds,Finneran Pavilion
+10/2/2022,EI1471,V52137436,STF - elevation,Contusion,Arm,L,,,First Aid,Steam Plant,Steam Plant
+9/15/2018,EI1473,V85396224,STF - elevation,Fracture,Leg,L,50,,Modified Duty,Stockroom,Dougherty
+9/28/2022,EI1473,V77177853,Overexertion,Sprain/strain,Torso,L,6,,Modified Duty,Stockroom,Donahue
+3/24/2018,EI1475,V37197118,MVA,Puncture,Hand,L,,,Recordable,Route 476,
+9/3/2019,EI1477,V46352816,Contact w/ electrical,Burn,Arm,L,,3,Lost Time,Softball Field,
+7/25/2021,EI1479,V23094260,Overexertion,Sprain/strain,Back,,,,First Aid,Grounds,Sheehan
+3/19/2020,EI1481,V21688164,Extreme temperature,Illness/infection,,,,,Recordable,Roof,Finneran Pavilion
+9/12/2020,EI1481,V84043907,Overexertion,Sprain/strain,Back,,,,First Aid,Locker Room,Davis Center
+9/8/2022,EI1483,V34064129,MVA,Fracture,Multiple,,,,First Aid,SAC Drive,
+12/2/2018,EI1485,V90617825,Struck by,Contusion,Hand,R,,,First Aid,Office,SAC
+7/8/2022,EI1485,V21970990,STF - elevation,Contusion,Head,,,,First Aid,Kitchen,Maintenance Building
+12/26/2022,EI1487,V30746949,Extreme temperature,Rash,Neck,,,3,Lost Time,Grounds,Kennedy
+4/28/2020,EI1489,V86213711,Overexertion,Sprain/strain,Torso,L,,,First Aid,Stockroom,Donahue
+12/23/2019,EI1487,V63672596,Struck against,Contusion,Finger,L,,,First Aid,Grounds,Dougherty
+12/20/2020,EI1491,V49406878,MVA,Contusion,Face,L,,,Recordable,Ryan's Way,
+8/13/2019,EI1493,V31535651,Other,Laceration,Multiple,,,,First Aid,Stockroom,Dougherty
+3/11/2020,EI1495,V45755512,Caught in,Crushed,Hand,L,6,,Modified Duty,Hallway,Trinity
+2/21/2020,EI1497,V77081483,Overexertion,Repetitive motion,Wrist,R,,,Recordable,Mechanical Room,St. Mary
+11/7/2019,EI1499,V19439870,STF - elevation,Contusion,Hand,L,,,First Aid,Grounds,St. Monica
+10/21/2019,EI1501,V62472568,Other,Contusion,Face,,,,First Aid,Hallway,Good Counsel
+3/31/2020,EI1503,V20654447,Other,Puncture,Hand,,,,Recordable,Lab,Mendel
+10/25/2022,EI1505,V48370477,STF - elevation,Abrasion,Leg,R,,,First Aid,Training Room,Jake Nevin
+11/8/2020,EI1507,V11586001,STF - same level,Laceration,Face,,,,Recordable,Loading Dock,St. Mary
+12/4/2021,EI1509,V61035237,STF - elevation,Sprain/strain,Arm,R,,,Recordable,Kitchen,Connelly
+5/18/2019,EI1511,V40591016,Other,Illness/infection,Internal organ,,,,Recordable,Grounds,Stadium
+9/19/2018,EI1513,V57296760,Bodily reaction,Illness/infection,,,8,,Modified Duty,Kitchen,Dougherty
+12/4/2022,EI1515,V44213151,STF - elevation,Fracture,Arm,R,,,Recordable,Garage,Stadium
+12/17/2020,EI1513,V24854371,Overexertion,Sprain/strain,Back,,,,First Aid,Kitchen,Connelly
+12/24/2021,EI1517,V83116132,MVA,Laceration,Groin,,,,Recordable,Dougherty Drive,
+6/1/2018,EI1519,V55702146,STF - same level,Abrasion,Face,,,,First Aid,Lab,Mendel
+1/1/2021,EI1521,V85110141,STF - elevation,Abrasion,Leg,R,7,,Modified Duty,Hallway,Bartley
+8/17/2021,EI1523,V45110018,Extreme temperature,Illness/infection,,,,,Recordable,Kitchen,Bartley
+11/20/2018,EI1523,V57548604,Contact w/ chemical,Rash,Eye,R,,,First Aid,Kitchen,Scarpa
+9/14/2022,EI1523,V28158680,Contact w/ electrical,Burn,Arm,L,6,,Modified Duty,Mechanical Room,White
+5/21/2020,EI1525,V26967117,Struck by,Fracture,Arm,L,,,Recordable,Grounds,St. Mary
+5/18/2018,EI1527,V46651357,Overexertion,Sprain/strain,Back,,,3,Lost Time,Grounds,Finneran Pavilion
+3/9/2021,EI1529,V88624729,Caught in,Sprain/strain,Torso,,,,First Aid,Office,Villanova Center
+3/12/2019,EI1531,V73742742,Puncture,Puncture,Hand,,7,,Modified Duty,Hallway,Rudolph
+4/29/2020,EI1533,V66752183,STF - same level,Abrasion,Eye,L,,,First Aid,Office,Vasey
+8/6/2021,EI1535,V82720328,Bodily reaction,Inhalation,,,,,First Aid,Kitchen,Scarpa
+11/8/2019,EI1537,V67731436,Extreme temperature,Rash,Neck,,,,First Aid,Mechanical Room,CEER
+9/1/2020,EI1539,V91986499,Bodily reaction,Illness/infection,,,,,First Aid,Hallway,Kennedy
+1/16/2021,EI1541,V10565213,Other,Laceration,Multiple,,,,First Aid,Mechanical Room,Falvey
+12/14/2022,EI1539,V95018088,Overexertion,Repetitive motion,Hand,L,,,First Aid,Office,St. Mary
+8/6/2019,EI1543,V65685720,Extreme temperature,Other,,,,,First Aid,Grounds,Stadium
+3/2/2021,EI1545,V28436482,Contact w/ chemical,Rash,Hand,R,,,First Aid,Mechanical Room,Davis Center
+5/22/2018,EI1547,V29559890,Struck by,Contusion,Hand,R,,,First Aid,,SAC
+10/11/2020,EI1549,V28460775,Bodily reaction,Other,,,,,First Aid,Grounds,Stanford
+3/7/2019,EI1551,V45680116,Overexertion,Sprain/strain,Back,,,,Recordable,Office,SAC
+5/24/2019,EI1553,V70298568,Contact w/ chemical,Rash,Hand,R,,,First Aid,Grounds,Finneran Pavilion
+6/28/2022,EI1553,V65104091,Struck against,Contusion,Torso,,,,First Aid,Grounds,Donahue
+9/7/2020,EI1555,V87471815,Extreme temperature,Rash,Neck,,,,Recordable,Kitchen,Dougherty
+2/26/2022,EI1557,V96923383,Caught in,Sprain/strain,Head,,,,First Aid,Lab,Mendel
+2/10/2018,EI1559,V34642601,Contact w/ electrical,Burn,Hand,L,,,First Aid,Grounds,Stone
+10/10/2020,EI1561,V61217450,Other,Illness/infection,Internal organ,,,,Recordable,Loading Dock,Connelly
+6/15/2020,EI1563,V30044397,STF - elevation,Fracture,Arm,R,,,Recordable,Classroom,ChemE
+10/11/2020,EI1565,V55104899,Contact w/ chemical,Rash,Eye,R,,,Recordable,Dumpster enclosure,Sheehan
+12/1/2021,EI1567,V43702867,Overexertion,Sprain/strain,Back,,,,First Aid,Hallway,SAC
+3/20/2019,EI1569,V28015986,Overexertion,Sprain/strain,Arm,R,,,First Aid,Carpenter Shop,Maintenance Building
+6/27/2020,EI1571,V57907225,Overexertion,Repetitive motion,Wrist,R,,,First Aid,Dumpster enclosure,Sullivan
+1/2/2019,EI1571,V80116014,STF - elevation,Fracture,Hand,R,,,Recordable,Hallway,Scarpa
+7/11/2020,EI1573,V51937227,Caught in,Contusion,Foot/feet,L,,,Recordable,Kitchen,Scarpa
+3/13/2018,EI1575,V28842588,Struck by,Fracture,Foot/feet,L,,,Recordable,Grounds,St. Monica
+2/11/2020,EI1577,V90617836,STF - elevation,Contusion,Hand,R,,,First Aid,Steam Plant,Steam Plant
+8/11/2019,EI1579,V50087311,Overexertion,Sprain/strain,Arm,R,,,First Aid,Carpenter Shop,CEER
+5/3/2019,EI1577,V90672477,Caught in,Laceration,Torso,,,,First Aid,Kitchen,Friar
+9/12/2018,EI1579,V39111540,Struck against,Laceration,Arm,R,1,,Modified Duty,Classroom,Driscoll
+11/8/2020,EI1581,V49931968,Rubbed/abraded,Abrasion,Finger,R,,,Recordable,Garage,Stadium
+3/7/2018,EI1583,V86524510,Bodily reaction,Illness/infection,,,,,Recordable,Kitchen,Maintenance Building
+5/27/2020,EI1585,V42631663,Struck by,Contusion,Head,,,,First Aid,Dumpster enclosure,St. Mary
+12/23/2018,EI1587,V12432413,Rubbed/abraded,Abrasion,Neck,R,,8,Lost Time,Lab,Mendel
+3/29/2022,EI1589,V85529937,Caught in,Contusion,Foot/feet,l,,,First Aid,Training Room,Jake Nevin
+1/26/2021,EI1581,V99595856,Struck against,Contusion,Finger,R,,,First Aid,Grounds,Dougherty
+8/23/2021,EI1591,V21301509,Bodily reaction,Other,,,,,Recordable,Soccer Field - West,
+7/18/2020,EI1585,V27329672,Rubbed/abraded,Abrasion,Leg,,,,Recordable,Dumpster enclosure,Sheehan
+7/2/2021,EI1593,V92397079,Contact w/ electrical,Burn,Hand,R,,19,Lost Time,Hallway,Tolentine
+11/24/2022,EI1595,V54229048,Caught in,Sprain/strain,Torso,,,,First Aid,Dumpster enclosure,St. Mary
+7/24/2022,EI1593,V87315860,Overexertion,Sprain/strain,Arm,L,49,,Modified Duty,Office,Vasey
+4/30/2018,EI1597,V91497873,Rubbed/abraded,Abrasion,Face,,,,First Aid,Grounds,St. Monica
+3/8/2019,EI1599,V54623126,Struck by,Fracture,Hand,L,2,,Modified Duty,Hallway,Tolentine
+12/29/2019,EI1601,V33044047,MVA,Fracture,Leg,L,,,First Aid,Commons Driveway,
+8/7/2019,EI1603,V52154544,STF - same level,Abrasion,Hand,R,,,First Aid,Steam Plant,Steam Plant
+6/19/2020,EI1605,V20205825,Rubbed/abraded,Abrasion,Hand,L,,,First Aid,Kitchen,Donahue
+5/10/2019,EI1603,V97898375,Contact w/ electrical,Burn,Hand,L,,,Recordable,Grounds,Donahue
+9/30/2022,EI1605,V38784030,Bodily reaction,Illness/infection,,,,,First Aid,Locker Room,Davis Center
+12/31/2020,EI1607,V94641591,MVA,Laceration,Hand,L,7,,Modified Duty,Dougherty Drive,
+9/1/2022,EI1605,V76426446,Extreme temperature,Illness/infection,,,,3,Lost Time,Training Room,Jake Nevin
+8/18/2018,EI1607,V47068036,Overexertion,Sprain/strain,Arm,R,,,First Aid,Hallway,Bartley
+12/3/2022,EI1603,V14874768,Rubbed/abraded,Abrasion,Leg,R,,,First Aid,Grounds,CEER
+1/9/2018,EI1605,V10170530,Other,Illness/infection,Internal organ,,,,Recordable,Loading Dock,Donahue
+11/1/2021,EI1609,V82861636,Contact w/ electrical,Burn,Finger,L,3,,Modified Duty,Hallway,Bartley
+6/16/2018,EI1611,V75674102,Rubbed/abraded,Abrasion,Leg,R,5,,Modified Duty,Grounds,Kennedy
+4/6/2022,EI1613,V42745303,Caught in,Laceration,Head,,,,First Aid,Loading Dock,Connelly
+7/1/2022,EI1615,V47143765,Contact w/ chemical,Rash,Face,R,,,First Aid,Athletics Complex,Talley Center
+12/17/2022,EI1617,V84902898,STF - same level,Contusion,Hand,L,,,First Aid,Hallway,Maintenance Building
+10/26/2022,EI1617,V92562263,STF - elevation,Contusion,Finger,L,,,First Aid,Dumpster enclosure,Sullivan
+10/21/2018,EI1619,V46682449,Caught in,Fracture,Hand,R,,,First Aid,Office,SAC
+7/18/2022,EI1621,V72992957,Struck by,Contusion,Leg,R,,,First Aid,Grounds,Sheehan
+7/6/2018,EI1619,V68215572,Rubbed/abraded,Abrasion,Leg,R,,,Recordable,Lab,Mendel
+3/6/2022,EI1623,V47306616,Extreme temperature,Burn,Hand,L,,,Recordable,Mechanical Room,Davis Center
+10/31/2022,EI1625,V78195414,Struck by,Crushed,Leg,L,12,,Modified Duty,Office,TSB
+3/11/2021,EI1627,V28663066,Extreme temperature,Other,,,16,,Modified Duty,Loading Dock,Connelly
+11/5/2022,EI1629,V10599147,MVA,Contusion,Face,R,,,Recordable,Ryan's Way,
+10/23/2021,EI1631,V70434803,MVA,Contusion,Head,,,,First Aid,Ryan's Way,
+6/20/2020,EI1633,V67723614,Other,,,,,,First Aid,Kitchen,Driscoll
+1/30/2019,EI1635,V54628525,Struck by,Contusion,Head,,,,First Aid,Hallway,Dougherty
+11/11/2020,EI1637,V19328937,Contact w/ chemical,Rash,Hand,R,,,Recordable,Carpenter Shop,Maintenance Building
+6/16/2019,EI1637,V79908598,Struck by,Contusion,Hand,L,,,First Aid,Grounds,Sheehan
+1/29/2018,EI1639,V23469597,Struck against,Contusion,Finger,R,,,First Aid,Kitchen,Finneran Pavilion
+6/29/2021,EI1641,V15896086,Caught in,Laceration,Finger,R,,,Recordable,Mechanical Room,Davis Center
+5/1/2019,EI1641,V18264855,Bodily reaction,Inhalation,,,2,,Modified Duty,Mechanical Room,Mendel
+4/24/2021,EI1643,V11772841,Puncture,Foreign body,Finger,,,,First Aid,Office,SAC
+4/10/2022,EI1645,V35877550,Struck by,Contusion,Hand,R,,,First Aid,Mechanical Room,Talley Center
+12/30/2020,EI1647,V83766130,STF - same level,Contusion,Multiple,,,,Recordable,Kitchen,St. Mary
+11/11/2022,EI1645,V40772151,Caught in,Laceration,Foot/feet,L,,,First Aid,Kitchen,Finneran Pavilion
+2/18/2020,EI1649,V31982661,Contact w/ electrical,Burn,Finger,R,5,,Modified Duty,Mechanical Room,Driscoll
+10/9/2022,EI1651,V87415586,Puncture,Puncture,Foot/feet,,98,,Modified Duty,Office,TSB
+5/26/2018,EI1651,V74609024,Struck against,Fracture,Arm,L,,19,Lost Time,Classroom,Driscoll
+2/22/2018,EI1653,V94248401,STF - elevation,Contusion,Hand,R,,,First Aid,Garage,Stadium
+7/6/2020,EI1655,V14289875,Bodily reaction,Other,,,10,,Modified Duty,Loading Dock,Donahue
+2/20/2022,EI1657,V31874693,STF - same level,Contusion,Face,R,,,First Aid,Grounds,CEER
+10/15/2019,EI1659,V61039932,STF - same level,Abrasion,Eye,L,,,First Aid,Stockroom,Dougherty
+4/21/2018,EI1661,V69103846,Contact w/ chemical,Rash,Face,L,,,First Aid,Hallway,Tolentine
+7/6/2018,EI1663,V90898227,Extreme temperature,Illness/infection,,,,,Recordable,Mechanical Room,Alumni
+1/27/2018,EI1665,V33629051,Caught in,Contusion,Foot/feet,L,,,Recordable,Mechanical Room,Hovnanian
+7/22/2022,EI1667,V42905922,Overexertion,Sprain/strain,Torso,L,12,,Modified Duty,Dumpster enclosure,Sullivan
+1/9/2018,EI1661,V93702960,Overexertion,Repetitive motion,Hand,R,,,First Aid,Office,Corr
+3/7/2021,EI1669,V47298445,STF - same level,Laceration,Foot/feet,R,,,Recordable,Training Room,Jake Nevin
+6/4/2020,EI1671,V48150861,Contact w/ electrical,Burn,Hand,L,5,,Modified Duty,Lab,Mendel
+12/9/2021,EI1669,V27292380,STF - elevation,Abrasion,Leg,R,,,First Aid,Training Room,Jake Nevin
+10/7/2020,EI1673,V37329442,Contact w/ chemical,Rash,Eye,R,,,First Aid,Stockroom,Dougherty
+9/28/2020,EI1669,V77757464,Contact w/ chemical,Inhalation,Internal organ,,1,,Modified Duty,Office,Austin
