@@ -1,0 +1,333 @@
+Employee ID,Full Name,Hire Date,Birth Date,Department,Job Title
+EI1011,"Adams, Karen",1985-01-10,1972-07-21,Custodial,Custodian
+EI1013,"Alexander, Anthony",1985-01-10,1972-07-21,Custodial,Custodian
+EI1015,"Alexander, Emily",1985-01-10,1972-07-21,Custodial,Custodian
+EI1017,"Alexander, Donna",1985-02-17,1995-05-17,Staff,VP
+EI1019,"Alexander, Julia",1985-04-17,1973-08-25,Maintenance,Trades
+EI1021,"Allen, Michael",1985-05-31,2001-08-09,Grounds,Gardener
+EI1023,"Anderson, Peter",1985-10-25,1967-10-19,Dining,Chef
+EI1025,"Bailey, Maria",1985-11-01,1981-06-12,Athletics,Facilities
+EI1027,"Bailey, Brenda",1985-11-15,1979-09-06,Staff,Lab Manager
+EI1029,"Baker, Anthony",1986-02-11,1974-06-30,Faculty,Professor
+EI1031,"Baker, Catherine",1986-02-19,1987-04-17,Dining,Manager
+EI1033,"Barnes, Walter",1986-03-07,1988-01-28,Custodial,Custodian
+EI1035,"Barnes, Steven",1986-11-13,1988-04-21,Staff,Director
+EI1037,"Barnes, Raymond",1986-12-02,1996-06-29,Dining,Chef
+EI1039,"Barnes, Jennifer",1987-02-05,1982-01-08,Public Safety,Police Officer
+EI1041,"Bell, Teresa",1987-02-10,1994-06-03,Custodial,Custodian
+EI1043,"Bell, Steven",1987-05-09,1974-09-19,Dining,Chef
+EI1045,"Bennett, Roger",1987-05-09,1974-09-19,Dining,Chef
+EI1047,"Bennett, Susan",1987-05-09,1974-09-19,Dining,Chef
+EI1049,"Bennett, Joseph",1987-06-14,1991-05-29,Grounds,Gardener
+EI1051,"Brooks, Jennifer",1987-09-13,2003-09-01,Maintenance,Trades
+EI1053,"Brown, Kimberly",1987-09-19,1960-12-16,Maintenance,Supervisor
+EI1055,"Brown, Christine",1987-10-29,1983-09-10,Faculty,Professor
+EI1057,"Bryant, Steven",1987-11-16,1989-06-15,Dining,Chef
+EI1059,"Campbell, Jeffrey",1987-12-16,1995-08-07,Maintenance,Trades
+EI1061,"Carter, Rachel",1988-03-14,1999-06-22,Dining,Manager
+EI1063,"Carter, David",1988-11-21,1983-11-15,Public Safety,Public safety Officer
+EI1065,"Clark, Christopher",1989-09-27,1967-10-12,Maintenance,Trades
+EI1067,"Cole, Susan",1990-10-19,1998-03-11,Athletics,Facilities
+EI1069,"Coleman, Richard",1991-01-23,1979-04-27,Athletics,Trainer
+EI1071,"Collins, Brian",1991-02-23,1969-03-30,Public Safety,Public safety Officer
+EI1073,"Collins, Steven",1991-07-03,1999-10-24,Public Safety,Public safety Officer
+EI1075,"Collins, Jennifer",1991-08-25,2003-10-08,Dining,Chef
+EI1077,"Cook, Anthony",1991-12-06,1973-07-09,Dining,Chef
+EI1079,"Cooper, Cynthia",1993-02-09,1989-11-17,Public Safety,Police Officer
+EI1081,"Cooper, Joyce",1993-02-17,1985-04-20,Public Safety,Police Officer
+EI1083,"Cox, Evelyn",1993-04-24,1980-07-01,Staff,Director
+EI1085,"Cox, Christopher",1993-04-24,1980-07-01,Staff,Director
+EI1087,"Cruz, Karen",1993-04-27,1992-04-28,Public Safety,Police Officer
+EI1089,"Cruz, Patrick",1993-07-18,1967-11-04,Athletics,Facilities
+EI1091,"Davis, Michael",1993-08-21,1973-06-28,Staff,Director
+EI1093,"Davis, Amanda",1993-11-09,2002-04-27,Staff,Director
+EI1095,"Davis, Nicole",1993-12-14,1964-11-12,Grounds,Gardener
+EI1097,"Diaz, Melissa",1994-01-10,1998-07-21,Athletics,Trainer
+EI1099,"Diaz, Julia",1994-05-18,1996-01-29,Grounds,Gardener
+EI1101,"Diaz, Brian",1994-06-22,1965-05-18,Maintenance,Trades
+EI1103,"Diaz, Robert",1994-06-22,1986-07-29,Athletics,Facilities
+EI1105,"Edwards, Andrew",1994-08-20,1962-09-05,Maintenance,General Maintenance
+EI1107,"Ellis, Jerry",1994-09-20,1967-07-17,Custodial,Custodian
+EI1109,"Ellis, Mary",1994-11-05,1996-10-04,Grounds,Gardener
+EI1111,"Evans, Laura",1994-11-05,1996-10-04,Grounds,Gardener
+EI1113,"Fisher, Stephanie",1995-01-02,1988-05-16,Dining,Associate
+EI1115,"Fisher, James",1995-01-07,1979-06-27,Grounds,Gardener
+EI1117,"Fisher, Cynthia",1995-01-07,1979-06-27,Grounds,Gardener
+EI1119,"Fisher, Ann",1995-01-30,1988-09-03,Grounds,Gardener
+EI1121,"Flores, Joyce",1995-01-30,1988-09-03,Grounds,Gardener
+EI1123,"Flores, Robert",1995-02-06,1984-02-02,Faculty,Professor
+EI1125,"Flores, Jack",1995-03-25,1992-01-27,Faculty,Professor
+EI1127,"Ford, William",1995-04-16,1982-10-27,Maintenance,General Maintenance
+EI1129,"Ford, Christopher",1995-04-27,1993-02-05,Staff,Administrative Assistant
+EI1131,"Ford, Julia",1995-04-30,1984-04-12,Maintenance,Trades
+EI1133,"Foster, Julie",1995-04-30,1984-04-12,Maintenance,Trades
+EI1135,"Foster, Kimberly",1995-05-03,1983-12-21,Public Safety,Public safety Officer
+EI1137,"Foster, Kenneth",1995-05-11,1972-10-27,Dining,Chef
+EI1139,"Garcia, Daniel",1995-07-18,1975-10-03,Grounds,Gardener
+EI1141,"Garcia, Marilyn",1995-08-18,1976-05-31,Staff,VP
+EI1143,"Gibson, Gregory",1995-09-18,1964-11-12,Faculty,Professor
+EI1145,"Gibson, Jennifer",1995-09-28,1976-12-28,Public Safety,Public safety Officer
+EI1147,"Gibson, Marie",1995-10-22,1996-07-15,Faculty,Professor
+EI1149,"Gonzales, Kevin",1995-11-27,1979-10-30,Dining,Chef
+EI1151,"Gonzales, Brian",1995-12-05,1994-05-28,Staff,Lab Manager
+EI1153,"Gonzales, Robert",1995-12-05,1994-05-28,Staff,Lab Manager
+EI1155,"Gonzales, Patrick",1995-12-28,1973-06-05,Faculty,Professor
+EI1157,"Gonzalez, Diana",1996-01-18,1960-09-20," Custodial",Custodian
+EI1159,"Gonzalez, Donna",1996-01-31,1991-06-26,Athletics,Facilities
+EI1161,"Gonzalez, Kevin",1996-02-16,1994-09-09,Grounds,Gardener
+EI1163,"Gonzalez, Patrick",1996-03-23,1967-09-19,Maintenance,Supervisor
+EI1165,"Gonzalez, Brian",1996-03-29,1963-10-16,Staff,Lab Manager
+EI1167,"Graham, Joseph",1996-05-05,1971-07-26,Athletics,Trainer
+EI1169,"Graham, Lisa",1996-08-22,2002-02-13,Grounds,Gardener
+EI1171,"Gray, Timothy",1996-10-07,2003-05-30,Staff,Lab Manager
+EI1173,"Gray, Brian",1996-12-06,1977-07-11,Maintenance,Trades
+EI1175,"Green, Kevin",1997-02-10,1969-08-01,Faculty,Professor
+EI1177,"Griffin, Susan",1997-03-19,1964-06-15,Athletics,Coach
+EI1179,"Griffin, Daniel",1997-04-16,1960-01-01,Athletics,Facilities
+EI1181,"Griffin, Joshua",1997-04-16,1960-01-01,Athletics,Facilities
+EI1183,"Hall, Lisa",1997-04-28,1965-02-05,Dining,Chef
+EI1185,"Hamilton, Gary",1997-05-12,1976-10-19," Custodial",Custodian
+EI1187,"Hamilton, Megan",1997-05-12,1976-10-19," Custodial",Custodian
+EI1189,"Hamilton, Brenda",1997-05-12,1976-10-19," Custodial",Custodian
+EI1191,"Harris, Betty",1997-06-30,1966-03-02,Athletics,Facilities
+EI1193,"Harris, Joshua",1997-06-30,1966-03-02,Athletics,Facilities
+EI1195,"Harrison, Kenneth",1997-07-13,1990-11-27,Athletics,Coach
+EI1197,"Harrison, Steven",1997-09-25,1993-03-24,Dining,Associate
+EI1199,"Harrison, Michelle",1997-09-25,1993-03-24,Dining,Associate
+EI1201,"Hayes, Tiffany",1997-11-04,1986-10-14,Staff,Specialist
+EI1203,"Hayes, Diana",1997-11-04,1986-10-14,Staff,Specialist
+EI1205,"Hayes, Jack",1997-12-19,1971-02-20,Custodial,Custodian
+EI1207,"Henderson, Michael",1998-01-02,1983-02-01,Public Safety,Police Officer
+EI1209,"Henderson, Christopher",1998-01-02,1983-02-01,Public Safety,Police Officer
+EI1211,"Henderson, Cynthia",1998-01-03,1984-10-29,Grounds,Gardener
+EI1213,"Hernandez, David",1998-01-08,1978-02-10,Public Safety,Public safety Officer
+EI1215,"Hernandez, Ann",1998-01-23,1963-04-11,Dining,Associate
+EI1217,"Hernandez, Brenda",1998-01-23,1963-04-11,Dining,Associate
+EI1219,"Hernandez, Frank",1998-04-13,1975-09-20,Grounds,Gardener
+EI1221,"Hernandez, Michael",1998-05-12,1991-09-19,Public Safety,Police Officer
+EI1223,"Hill, Andrew",1998-06-10,1962-05-03,Faculty,Professor
+EI1225,"Hill, Nicholas",1998-08-18,1971-09-27,Grounds,Gardener
+EI1227,"Hill, Kathleen",1998-08-22,1968-02-15,Faculty,Professor
+EI1229,"Hill, Catherine",1998-08-26,1990-07-28,Dining,Associate
+EI1231,"Hill, Mary",1998-08-26,1990-07-28,Dining,Associate
+EI1233,"Howard, Kenneth",1999-01-29,1983-02-10,Maintenance,General Maintenance
+EI1235,"Howard, Edward",1999-02-12,1999-09-28,Dining,Manager
+EI1237,"Howard, Thomas",1999-02-12,1999-09-28,Dining,Manager
+EI1239,"Howard, Elizabeth",1999-03-25,2001-08-31,Staff,VP
+EI1241,"Howard, Susan",1999-04-24,1969-07-03,Public Safety,Police Officer
+EI1243,"Hughes, Stephanie",1999-04-24,1969-07-03,Public Safety,Police Officer
+EI1245,"Hughes, Raymond",1999-04-24,1969-07-03,Public Safety,Police Officer
+EI1247,"Hughes, Joseph",1999-05-10,1972-10-17,Staff,Specialist
+EI1249,"Jackson, Lisa",1999-05-10,1972-10-17,Staff,Specialist
+EI1251,"Jackson, Julie",1999-07-21,1984-10-10,Dining,Associate
+EI1253,"James, Amy",1999-08-17,1959-07-10,Maintenance,General Maintenance
+EI1255,"James, Amanda",1999-12-09,1994-01-04,Faculty,Professor
+EI1257,"Jenkins, Dorothy",2000-03-28,1981-09-01,Dining,Associate
+EI1259,"Jenkins, Emily",2000-03-28,1981-09-01,Dining,Associate
+EI1261,"Johnson, Kevin",2000-05-05,1971-06-11,Athletics,Facilities
+EI1263,"Jones, Alexander",2000-05-15,1995-06-09,Custodial,Custodian
+EI1265,"Jones, Susan",2000-05-15,1995-06-09,Custodial,Custodian
+EI1267,"Jones, Virginia",2000-05-24,1990-02-23,Faculty,Professor
+EI1269,"Jordan, Patricia",2000-05-26,1968-06-20,Dining,Associate
+EI1271,"Jordan, Anthony",2000-05-26,1968-06-20,Dining,Associate
+EI1273,"Jordan, Julia",2000-07-24,1966-06-08,Dining,Chef
+EI1275,"Kelly, Michelle",2000-08-26,1966-11-03,Custodial,Custodian
+EI1277,"Kelly, Jose",2000-08-26,1966-11-03,Custodial,Custodian
+EI1279,"Kelly, Diane",2000-08-27,1999-06-03,Public Safety,Police Officer
+EI1281,"Kelly, Linda",2000-09-17,1981-11-04,Staff,Director
+EI1283,"Kelly, Joyce",2000-10-29,1961-01-06,Grounds,Gardener
+EI1285,"King, Andrea",2000-11-18,1983-09-05,Athletics,Coach
+EI1287,"King, Jack",2001-03-10,1967-09-27,Athletics,Coach
+EI1289,"Lee, Jason",2001-05-04,1984-11-25,Public Safety,Public safety Officer
+EI1291,"Lee, Patrick",2001-05-21,1980-06-27,Public Safety,Public safety Officer
+EI1293,"Lee, Deborah",2001-05-23,1991-08-26,Maintenance,General Maintenance
+EI1295,"Lewis, Sarah",2001-06-14,1999-11-26,Faculty,Professor
+EI1297,"Lewis, Janet",2001-07-05,1997-06-04,Maintenance,Supervisor
+EI1299,"Lewis, Steven",2001-07-10,1985-07-26,Athletics,Facilities
+EI1301,"Lewis, Teresa",2001-07-23,1961-06-04,Custodial,Custodian
+EI1303,"Lewis, Marie",2001-09-02,1973-08-07,Grounds,Gardener
+EI1305,"Long, Peter",2001-10-22,2002-01-27,Faculty,Professor
+EI1307,"Long, Dorothy",2001-10-22,2002-01-27,Faculty,Professor
+EI1309,"Lopez, Diana",2001-12-17,1971-08-10,Dining,Manager
+EI1311,"Marshall, Julie",2002-02-27,1960-09-18,Staff,Specialist
+EI1313,"Marshall, Kathleen",2002-02-27,2004-03-22,Dining,Associate
+EI1315,"Marshall, Rachel",2002-03-29,1968-07-06,Athletics,Trainer
+EI1317,"Martin, Joshua",2002-04-24,2005-04-20,Staff,Specialist
+EI1319,"Martin, Brenda",2002-04-24,2005-04-20,Staff,Specialist
+EI1321,"Martin, Rachel",2002-05-02,1969-08-05,Dining,Manager
+EI1323,"Martin, Timothy",2002-05-12,1995-03-03,Dining,Associate
+EI1325,"Martin, Kevin",2002-06-10,2002-11-28,Staff,Lab Manager
+EI1327,"Martin, David",2002-06-10,2002-11-28,Staff,Lab Manager
+EI1329,"Martinez, Kevin",2002-06-10,2004-10-22,Maintenance,General Maintenance
+EI1331,"Martinez, Stephen",2002-06-30,1990-10-04,Custodial,Custodian
+EI1333,"Martinez, Dorothy",2002-07-13,1991-07-23,Staff,Specialist
+EI1335,"Martinez, Kenneth",2002-07-13,1991-07-23,Staff,Specialist
+EI1337,"Martinez, Jennifer",2002-09-11,1961-07-29,Public Safety,Police Officer
+EI1339,"Martinez, Laura",2002-10-08,1981-03-11,Athletics,Facilities
+EI1341,"Mcdonald, Deborah",2002-10-20,2005-02-21,Dining,Associate
+EI1343,"Mcdonald, Daniel",2002-11-01,1982-07-28,Staff,Lab Manager
+EI1345,"Mcdonald, Marilyn",2002-11-15,1992-08-15,Grounds,Gardener
+EI1347,"Miller, Angela",2002-11-26,2000-02-12,Maintenance,General Maintenance
+EI1349,"Miller, Laura",2002-11-26,2000-02-12,Maintenance,General Maintenance
+EI1351,"Miller, Julie",2002-11-26,2000-02-12,Maintenance,General Maintenance
+EI1353,"Miller, Sharon",2002-11-26,2000-02-12,Maintenance,General Maintenance
+EI1355,"Mitchell, Linda",2002-12-18,1997-11-04,Dining,Chef
+EI1357,"Mitchell, Jeffrey",2002-12-27,1979-06-24,Dining,Associate
+EI1359,"Mitchell, Brenda",2003-01-02,1974-11-27,Public Safety,Public safety Officer
+EI1361,"Mitchell, Julie",2003-02-04,1966-12-28,Custodial,Custodian
+EI1363,"Mitchell, Frances",2003-02-19,1968-02-27,Maintenance,General Maintenance
+EI1365,"Moore, Carol",2003-02-19,1968-02-27,Maintenance,General Maintenance
+EI1367,"Moore, Robert",2003-02-19,1968-02-27,Maintenance,General Maintenance
+EI1369,"Morgan, Lisa",2003-03-20,1978-10-11,Faculty,Professor
+EI1371,"Morgan, Timothy",2003-04-15,1991-06-03,Faculty,Professor
+EI1373,"Morgan, Joyce",2003-06-27,1974-09-16,Grounds,Gardener
+EI1375,"Morris, Denise",2003-06-30,1972-07-03,Faculty,Professor
+EI1377,"Morris, Patricia",2003-06-30,1972-07-03,Faculty,Professor
+EI1379,"Murphy, Daniel",2003-07-18,1985-12-08,Faculty,Professor
+EI1381,"Murphy, Judy",2003-08-10,1975-08-31,Dining,Chef
+EI1383,"Murphy, Denise",2003-08-18,1981-10-01,Staff,Specialist
+EI1385,"Murphy, Sandra",2003-10-07,1978-12-15,Grounds,Gardener
+EI1387,"Myers, John",2003-11-27,1984-07-25,Athletics,Trainer
+EI1389,"Myers, Andrew",2003-12-10,1978-02-16," Custodial",Custodian
+EI1391,"Myers, William",2004-06-09,1978-07-17,Maintenance,General Maintenance
+EI1393,"Myers, Janet",2004-06-27,1975-09-21,Staff,Lab Manager
+EI1395,"Nelson, Scott",2004-08-18,1987-08-26,Faculty,Professor
+EI1397,"Nelson, Jessica",2005-04-06,1970-08-19,Grounds,Gardener
+EI1399,"Ortiz, Janice",2006-02-01,1985-04-02,Athletics,Coach
+EI1401,"Ortiz, Mark",2006-02-01,1985-04-02,Athletics,Coach
+EI1403,"Ortiz, Roger",2006-02-02,1966-11-10,Faculty,Professor
+EI1405,"Ortiz, Amanda",2006-04-06,1963-12-26,Grounds,Gardener
+EI1407,"Owens, Stephanie",2006-04-06,1963-12-26,Grounds,Gardener
+EI1409,"Owens, Paul",2006-04-06,1963-12-26,Grounds,Gardener
+EI1411,"Owens, Jack",2006-09-19,1969-12-25,Faculty,Professor
+EI1413,"Parker, Virginia",2006-11-14,1976-09-09," Custodial",Custodian
+EI1415,"Parker, Patricia",2007-01-15,1989-06-15,Staff,Administrative Assistant
+EI1417,"Parker, Thomas",2007-01-15,1989-06-15,Staff,Administrative Assistant
+EI1419,"Patterson, Tiffany",2007-02-14,1992-01-31,Staff,Specialist
+EI1421,"Patterson, Anthony",2007-03-28,1983-05-24,Staff,Specialist
+EI1423,"Patterson, Walter",2007-05-25,1964-09-02,Grounds,Gardener
+EI1425,"Perez, Raymond",2007-09-08,1963-08-09,Faculty,Professor
+EI1427,"Perez, Jennifer",2007-11-24,1962-06-30,Grounds,Gardener
+EI1429,"Perez, Daniel",2007-11-24,1962-06-30,Grounds,Gardener
+EI1431,"Perez, Stephen",2007-11-24,1962-06-30,Grounds,Gardener
+EI1433,"Perez, Gary",2007-12-27,2004-09-20,Faculty,Professor
+EI1435,"Perry, Laura",2008-01-26,2003-09-25,Maintenance,General Maintenance
+EI1437,"Perry, Jessica",2008-04-25,1959-10-10,Faculty,Professor
+EI1439,"Perry, Christopher",2008-05-16,1966-05-17,Grounds,Gardener
+EI1441,"Peterson, Larry",2008-05-16,1966-05-17,Grounds,Gardener
+EI1443,"Peterson, Nancy",2008-08-01,1965-07-22,Maintenance,General Maintenance
+EI1445,"Peterson, Marilyn",2008-08-01,1965-07-22,Maintenance,General Maintenance
+EI1447,"Phillips, Catherine",2008-08-01,1965-07-22,Maintenance,General Maintenance
+EI1449,"Phillips, Brian",2008-10-17,1971-11-16,Staff,Administrative Assistant
+EI1451,"Phillips, Jennifer",2008-10-17,1971-11-16,Staff,Administrative Assistant
+EI1453,"Phillips, Heather",2009-04-29,1995-07-16,Dining,Associate
+EI1455,"Powell, Joshua",2009-09-07,1968-05-10,Public Safety,Public safety Officer
+EI1457,"Powell, Kenneth",2009-09-30,1989-03-23," Custodial",Custodian
+EI1459,"Powell, Jennifer",2009-10-18,1985-11-17," Custodial",Custodian
+EI1461,"Powell, Rebecca",2009-10-18,1985-11-17," Custodial",Custodian
+EI1463,"Price, Andrew",2009-10-18,1985-11-17," Custodial",Custodian
+EI1465,"Price, Eric",2009-10-18,1985-11-17," Custodial",Custodian
+EI1467,"Price, Tiffany",2009-12-17,1962-11-11,Dining,Associate
+EI1469,"Ramirez, Jose",2010-01-07,1995-02-20,Public Safety,Police Officer
+EI1471,"Reed, Heidi",2010-01-07,1995-02-20,Public Safety,Police Officer
+EI1473,"Reed, Jose",2010-04-15,1989-12-12,Staff,Specialist
+EI1475,"Reed, Heather",2010-05-22,1979-05-16,Faculty,Professor
+EI1477,"Reed, Joseph",2010-09-23,1995-08-12,Maintenance,General Maintenance
+EI1479,"Reynolds, Jennifer",2010-11-22,1999-05-29,Grounds,Gardener
+EI1481,"Reynolds, Matthew",2010-12-11,1972-09-27,Public Safety,Public safety Officer
+EI1483,"Reynolds, Gary",2011-07-21,1966-05-26,Grounds,Police Officer
+EI1485,"Richardson, Evelyn",2011-10-17,1964-02-24,Faculty,Professor
+EI1487,"Richardson, Elizabeth",2011-11-09,1965-05-06,Dining,Associate
+EI1489,"Richardson, Janet",2011-12-26,1978-09-05,Public Safety,Public safety Officer
+EI1491,"Rivera, David",2011-12-26,1978-09-05,Public Safety,Public safety Officer
+EI1493,"Rivera, Emily",2012-02-13,1968-08-18,Maintenance,General Maintenance
+EI1495,"Rivera, Jerry",2012-04-15,1993-05-23,Public Safety,Public safety Officer
+EI1497,"Rivera, Susan",2012-04-15,1993-05-23,Public Safety,Public safety Officer
+EI1499,"Rivera, Betty",2012-05-15,1976-08-12,Athletics,Facilities
+EI1501,"Roberts, Michelle",2012-05-15,1976-08-12,Athletics,Facilities
+EI1503,"Roberts, Virginia",2012-06-02,1990-04-27,Faculty,Professor
+EI1505,"Roberts, Stephanie",2012-06-05,1975-02-03," Custodial",Custodian
+EI1507,"Roberts, Megan",2012-06-05,1975-02-03," Custodial",Custodian
+EI1509,"Robinson, Melissa",2012-11-17,1974-08-27," Custodial",Custodian
+EI1511,"Robinson, Joyce",2012-11-17,1974-08-27," Custodial",Custodian
+EI1513,"Rodriguez, Judy",2012-12-07,1963-05-15,Public Safety,Public safety Officer
+EI1515,"Rodriguez, Amy",2012-12-30,1994-05-15," Custodial",Custodian
+EI1517,"Rodriguez, Sandra",2013-01-21,1999-10-25,Dining,Associate
+EI1519,"Rodriguez, Carol",2013-05-26,1978-12-25,Dining,Associate
+EI1521,"Rodriguez, Patricia",2013-06-09,1999-12-17,Staff,Administrative Assistant
+EI1523,"Rogers, Frances",2013-06-11,1971-07-22,Faculty,Professor
+EI1525,"Rogers, Teresa",2013-09-13,1994-03-23,Faculty,Professor
+EI1527,"Ross, Julie",2013-09-13,1994-03-23,Faculty,Professor
+EI1529,"Ross, Larry",2013-12-02,1977-05-01,Maintenance,General Maintenance
+EI1531,"Russell, Roger",2013-12-02,1977-05-01,Maintenance,General Maintenance
+EI1533,"Russell, Evelyn",2013-12-02,1977-05-01,Maintenance,General Maintenance
+EI1535,"Russell, Marie",2013-12-03,1976-05-02,Grounds,Gardener
+EI1537,"Sanchez, Elizabeth",2013-12-03,1976-05-02,Grounds,Gardener
+EI1539,"Sanders, Rebecca",2014-01-07,2004-06-09," Custodial",Custodian
+EI1541,"Sanders, Brenda",2014-01-07,2004-06-09," Custodial",Custodian
+EI1543,"Sanders, Nancy",2014-01-27,1995-11-11,Athletics,Facilities
+EI1545,"Scott, Jack",2014-06-26,1994-08-03,Athletics,Facilities
+EI1547,"Scott, Thomas",2014-06-26,1994-08-03,Athletics,Facilities
+EI1549,"Scott, Paul",2014-10-14,1985-05-07,Maintenance,General Maintenance
+EI1551,"Simmons, Nancy",2014-10-21,1985-12-10," Custodial",Custodian
+EI1553,"Simmons, Nicholas",2014-10-30,1969-07-06,Faculty,Professor
+EI1555,"Simmons, Frank",2014-12-23,1971-04-17,Athletics,Facilities
+EI1557,"Simmons, Laura",2014-12-23,1971-04-17,Athletics,Facilities
+EI1559,"Smith, Amanda",2014-12-23,1971-04-17,Athletics,Facilities
+EI1561,"Smith, Rachel",2015-02-14,1981-04-19,Faculty,Professor
+EI1563,"Smith, Nicholas",2015-03-20,1975-12-16,Public Safety,Police Officer
+EI1565,"Smith, Jessica",2015-07-03,1960-12-13,Athletics,Coach
+EI1567,"Stewart, Stephen",2015-07-03,1960-12-13,Athletics,Coach
+EI1569,"Stewart, Mary",2015-09-29,1969-03-11,Faculty,Professor
+EI1571,"Stewart, Kimberly",2015-10-16,1994-09-10," Custodial",Custodian
+EI1573,"Sullivan, Sarah",2015-12-30,1964-05-18,Staff,Specialist
+EI1575,"Sullivan, Cynthia",2015-12-30,1964-05-18,Staff,Specialist
+EI1577,"Taylor, David",2016-01-13,1983-01-25,Staff,Specialist
+EI1579,"Taylor, Amanda",2016-01-13,1983-01-25,Staff,Specialist
+EI1581,"Thomas, Susan",2016-02-07,1992-05-21,Dining,Associate
+EI1583,"Thomas, Julie",2016-02-07,1992-05-21,Dining,Associate
+EI1585,"Thomas, Angela",2016-10-12,1962-05-17,Dining,Associate
+EI1587,"Thomas, Christopher",2016-10-28,1982-01-21,Staff,Lab Manager
+EI1589,"Thomas, Betty",2016-11-18,1977-07-08,Faculty,Professor
+EI1591,"Thomas, Peter",2017-04-29,1975-05-04,Faculty,Professor
+EI1593,"Thompson, Virginia",2017-10-11,1962-04-09,Maintenance,General Maintenance
+EI1595,"Thompson, Susan",2018-02-06,1968-01-27,Staff,Lab Manager
+EI1597,"Thompson, Kenneth",2018-02-12,1983-08-28,Dining,Associate
+EI1599,"Torres, Heidi",2018-02-12,1983-08-28,Dining,Associate
+EI1601,"Torres, Jose",2018-03-25,1972-06-07,Staff,Specialist
+EI1603,"Turner, Diane",2018-06-06,1975-03-20,Dining,Associate
+EI1605,"Turner, Peter",2018-06-06,1975-03-20,Dining,Associate
+EI1607,"Turner, Nicholas",2018-09-08,1985-04-18,Athletics,Facilities
+EI1609,"Walker, Thomas",2018-12-23,1962-07-04,Grounds,Gardener
+EI1611,"Walker, Marilyn",2018-12-23,1962-07-04,Grounds,Gardener
+EI1613,"Walker, Michelle",2018-12-23,1962-07-04,Grounds,Gardener
+EI1615,"Wallace, William",2019-06-02,1988-09-09,Athletics,Coach
+EI1617,"Wallace, Marie",2019-06-02,1988-09-09,Athletics,Coach
+EI1619,"Ward, Cynthia",2019-09-10,1999-05-24,Staff,Administrative Assistant
+EI1621,"Ward, Gregory",2019-09-21,1963-06-18,Dining,Associate
+EI1623,"Ward, Diane",2019-11-29,2003-01-07,Staff,Administrative Assistant
+EI1625,"Ward, Nicholas",2019-12-08,1991-02-04,Grounds,Gardener
+EI1627,"Ward, Paul",2020-01-08,1986-09-17,Public Safety,Public safety Officer
+EI1629,"Washington, Diana",2020-01-16,1983-09-23,Faculty,Professor
+EI1631,"Washington, Susan",2020-02-23,1993-05-31,Athletics,Facilities
+EI1633,"Washington, Jerry",2020-02-23,1993-05-31,Athletics,Facilities
+EI1635,"Washington, Mary",2020-05-03,2000-10-21,Grounds,Gardener
+EI1637,"Watson, Janice",2020-09-11,1965-10-21,Faculty,Professor
+EI1639,"Watson, Diane",2020-09-11,1965-10-21,Faculty,Professor
+EI1641,"West, Nicole",2021-01-02,1965-09-27,Maintenance,General Maintenance
+EI1643,"White, Amy",2021-01-02,1965-09-27,Maintenance,General Maintenance
+EI1645,"White, Rachel",2021-01-02,1965-09-27,Maintenance,General Maintenance
+EI1647,"White, Frances",2021-05-06,1999-02-09,Grounds,Gardener
+EI1649,"White, Laura",2021-05-06,1999-02-09,Grounds,Gardener
+EI1651,"Williams, Jennifer",2021-06-01,1962-10-05,Staff,Administrative Assistant
+EI1653,"Wilson, Deborah",2021-08-04,1997-11-08,Public Safety,Public safety Officer
+EI1655,"Wilson, Steven",2021-08-04,1997-11-08,Public Safety,Public safety Officer
+EI1657,"Wood, Jason",2021-08-26,2003-12-29,Athletics,Coach
+EI1659,"Wood, Steven",2021-11-19,1992-06-25,Public Safety,Police Officer
+EI1661,"Woods, Mark",2021-11-19,1992-06-25,Public Safety,Police Officer
+EI1663,"Woods, Sharon",2022-04-25,1974-02-26,Grounds,Gardener
+EI1665,"Woods, Teresa",2022-05-15,1964-08-26,Faculty,Professor
+EI1667,"Woods, Edward",2022-05-15,1964-08-26,Faculty,Professor
+EI1669,"Wright, Andrew",2022-08-05,1969-02-14,Athletics,Coach
+EI1671,"Wright, Thomas",2022-08-05,1969-02-14,Athletics,Coach
+EI1673,"Wright, Catherine",2023-05-09,1999-10-03,Public Safety,Public safety Officer
