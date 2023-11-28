@@ -1,4 +1,4 @@
-﻿Employee ID,Full Name,Hire Date,Birth Date,Department,Job Title
+Employee ID,Full Name,Hire Date,Birth Date,Department,Job Title
 EI1011,"Adams, Karen",1/10/1985,7/21/1972,Custodial,Custodian
 EI1013,"Alexander, Anthony",1/10/1985,7/21/1972,Custodial,Custodian
 EI1015,"Alexander, Emily",1/10/1985,7/21/1972,Custodial,Custodian
@@ -311,23 +311,23 @@ EI1627,"Ward, Paul",1/8/2020,9/17/1986,Public Safety,Public safety Officer
 EI1629,"Washington, Diana",1/16/2020,9/23/1983,Faculty,Professor
 EI1631,"Washington, Susan",2/23/2020,5/31/1993,Athletics,Facilities
 EI1633,"Washington, Jerry",2/23/2020,5/31/1993,Athletics,Facilities
-EI1635,"Washington, Mary",5/3/2020,10/21/2000,Grounds,Gardener
-EI1637,"Watson, Janice",9/11/2020,10/21/1965,Faculty,Professor
-EI1639,"Watson, Diane",9/11/2020,10/21/1965,Faculty,Professor
-EI1641,"West, Nicole",1/2/2021,9/27/1965,Maintenance,General Maintenance
+EI1635,"Washington, Mary",5/3/2018,10/21/2000,Grounds,Gardener
+EI1637,"Watson, Janice",9/11/2018,10/21/1965,Faculty,Professor
+EI1639,"Watson, Diane",9/11/2017,10/21/1965,Faculty,Professor
+EI1641,"West, Nicole",1/2/2019,9/27/1965,Maintenance,General Maintenance
 EI1643,"White, Amy",1/2/2021,9/27/1965,Maintenance,General Maintenance
 EI1645,"White, Rachel",1/2/2021,9/27/1965,Maintenance,General Maintenance
-EI1647,"White, Frances",5/6/2021,2/9/1999,Grounds,Gardener
-EI1649,"White, Laura",5/6/2021,2/9/1999,Grounds,Gardener
-EI1651,"Williams, Jennifer",6/1/2021,10/5/1962,Staff,Administrative Assistant
-EI1653,"Wilson, Deborah",8/4/2021,11/8/1997,Public Safety,Public safety Officer
-EI1655,"Wilson, Steven",8/4/2021,11/8/1997,Public Safety,Public safety Officer
+EI1647,"White, Frances",5/6/2019,2/9/1999,Grounds,Gardener
+EI1649,"White, Laura",5/6/2019,2/9/1999,Grounds,Gardener
+EI1651,"Williams, Jennifer",6/1/2016,10/5/1962,Staff,Administrative Assistant
+EI1653,"Wilson, Deborah",8/4/2016,11/8/1997,Public Safety,Public safety Officer
+EI1655,"Wilson, Steven",8/4/2019,11/8/1997,Public Safety,Public safety Officer
 EI1657,"Wood, Jason",8/26/2021,12/29/2003,Athletics,Coach
-EI1659,"Wood, Steven",11/19/2021,6/25/1992,Public Safety,Police Officer
-EI1661,"Woods, Mark",11/19/2021,6/25/1992,Public Safety,Police Officer
-EI1663,"Woods, Sharon",4/25/2022,2/26/1974,Grounds,Gardener
-EI1665,"Woods, Teresa",5/15/2022,8/26/1964,Faculty,Professor
+EI1659,"Wood, Steven",11/19/2018,6/25/1992,Public Safety,Police Officer
+EI1661,"Woods, Mark",11/19/2017,6/25/1992,Public Safety,Police Officer
+EI1663,"Woods, Sharon",4/25/2018,2/26/1974,Grounds,Gardener
+EI1665,"Woods, Teresa",5/15/2017,8/26/1964,Faculty,Professor
 EI1667,"Woods, Edward",5/15/2022,8/26/1964,Faculty,Professor
-EI1669,"Wright, Andrew",8/5/2022,2/14/1969,Athletics,Coach
-EI1671,"Wright, Thomas",8/5/2022,2/14/1969,Athletics,Coach
-EI1673,"Wright, Catherine",5/9/2023,10/3/1999,Public Safety,Public safety Officer
+EI1669,"Wright, Andrew",8/5/2019,2/14/1969,Athletics,Coach
+EI1671,"Wright, Thomas",8/5/2019,2/14/1969,Athletics,Coach
+EI1673,"Wright, Catherine",5/9/2018,10/3/1999,Public Safety,Public safety Officer
